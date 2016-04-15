@@ -1,51 +1,54 @@
-<!doctype html>
-<html lang="en"
-      ng-app="app">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Steam Gun Skins</title>
     <link rel="stylesheet"
-          href="node_modules/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css"
           href="app/css/app.css">
+    <meta charset="UTF-8">
+    <title>Fair Trade</title>
 </head>
-<body ng-controller="AppCtrl as app">
-<div class="container">
-    <div class="row search">
-        <div class="col-md-6 col-md-offset-6">
-            <input type="text"
-                   ng-model="app.search"
-                   placeholder="Search for a skin..."
-                   class="form-control">
+<body>
+    <div class="page-header">
+        <h3>CS:GO Fair Trade</h3>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 border ">  <!-- Left Side Buttons-->
+                <button type="button" class="btn btn-default left_top_button">Add Skins</button>
+                <button type="button" class="btn btn-default left_top_button">Remove Skins</button>
+            </div>
+            <div class="col-md-6 border "> <!--Right Side Buttons -->
+                <button type="button" class="btn btn-default right_top_button">Remove Skins</button>
+                <button type="button" class="btn btn-default right_top_button">Add Skins</button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 border item_column "> <!--Left Side Item Column-->
+                <a href="#" class="thumbnail">
+                    <img src="..." alt="...">
+                </a>
+            </div>
+            <div class="col-md-6 border item_column "> <!--Right Side Item Column -->
+                <p>Test</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 border "> <!-- Confirm Button-->
+                <button type="button" class="btn btn-primary btn-block">Calculate</button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 border "> <!-- Bottom Row-->
+                <p>Value=</p>
+            </div>
+            <div class="col-md-4 border "> <!-- Bottom Row-->
+                <p>Difference=</p>
+            </div>
+            <div class="col-md-4 border "> <!-- Bottom Row-->
+                <p>Value=</p>
+            </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-12">
-            <table class="table table-striped table-condensed">
-                <thead>
-                <tr>
-                    <th>Skin Name</th>
-                    <th>Skin Value</th>
-                    <th>Quantity</th>
-                    <th>Last Updated</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr><td colspan="4">Search: {{app.search}}</td></tr>
-                <tr ng-repeat="skin in app.skins | filter: app.search">
-                    <td>{{skin.name}}</td>
-                    <td>{{(skin.value / 100) | currency}}</td>
-                    <td>{{skin.quantity}}</td>
-                    <td>{{skin.last_updated}}</td>
-                </tr>
-                </tbody>
-            </table>
-        </div>
-    </div>
-</div>
-<script src="node_modules/angular/angular.min.js"></script>
-<script src="node_modules/lodash/lodash.min.js"></script>
-<script src="node_modules/moment/moment.js"></script>
-<script src="app/module.js"></script>
 </body>
 </html>
