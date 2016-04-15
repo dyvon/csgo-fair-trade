@@ -2,3 +2,39 @@
     margin-top: 15px;
     margin-bottom: 30px;
 }
+
+.right_top_button{
+    float:right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.left_top_button{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.border{
+    border:solid thin;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.item_column{
+    min-height: 200px;
+}
+.confirm_btn{
+    margin:auto;
+    display:block;
+}
+#value_left{
+    float:left;
+    width:33%;
+}
+#value_right{
+    float:right;
+    width:33%;
+}
+#difference_middle{
+    text-align: center;
+    width:33%;
+}
+
+
