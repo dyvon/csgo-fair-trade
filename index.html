@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"
+      ng-app="app">
 <head>
     <link rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
@@ -8,19 +9,42 @@
     <meta charset="UTF-8">
     <title>Fair Trade</title>
 </head>
-<body>
+<body ng-controller="AppCtrl as app">
     <div class="page-header">
         <h3>CS:GO Fair Trade</h3>
     </div>
     <div class="container">
         <div class="row">
             <div class="col-md-6 border ">  <!-- Left Side Buttons-->
-                <button type="button" class="btn btn-default left_top_button">Add Skins</button>
+                <button type="button" class="btn btn-default left_top_button" id="add_skins_button_left">Add Skins</button>
                 <button type="button" class="btn btn-default left_top_button">Remove Skins</button>
             </div>
             <div class="col-md-6 border "> <!--Right Side Buttons -->
                 <button type="button" class="btn btn-default right_top_button">Remove Skins</button>
-                <button type="button" class="btn btn-default right_top_button">Add Skins</button>
+                <button type="button" class="btn btn-default right_top_button " id="add_skins_button_right">Add Skins</button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 border">
+                <select class="form-control" id="select_skin_types" onchange="select_change()">
+                    <option value="" disabled selected>Select Skin Type</option>
+                    <option value="1">Rifles</option>
+                    <option value="2">Sub-Machine Guns</option>
+                    <option value="3">Snipers</option>
+                    <option value="4">Pistols</option>
+                    <option value="5">Knives</option>
+                    <option value="6">Shotguns</option>
+                    <option value="7">Light Machine Guns</option>
+                    <option value="8">Other</option>
+
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 border" id="skin_list_div">
+                <!--<select class="form-control" ng-model="app.selectedSkin" ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+                    <!--<option value="" disabled selected>Select your skin</option>-->
+                <!--</select>-->
             </div>
         </div>
         <div class="row">
@@ -28,7 +52,7 @@
 
             </div>
             <div class="col-md-6 border item_column "> <!--Right Side Item Column -->
-                <p>Test</p>
+
             </div>
         </div>
         <div class="row">
@@ -48,5 +72,10 @@
             </div>
         </div>
     </div>
+
+    <script src="node_modules/angular/angular.min.js"></script>
+    <script src="node_modules/lodash/lodash.min.js"></script>
+    <script src="node_modules/moment/moment.js"></script>
+    <script src="app/module.js"></script>
 </body>
 </html>

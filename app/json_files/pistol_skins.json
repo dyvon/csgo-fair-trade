@@ -1,0 +1,5383 @@
+{
+"CZ75-Auto | Army Sheen (Factory New)": {
+"last_updated": 1461006095,
+"quantity": 560,
+"value": 27
+},
+"CZ75-Auto | Army Sheen (Field-Tested)": {
+"last_updated": 1461006095,
+"quantity": 776,
+"value": 8
+},
+"CZ75-Auto | Army Sheen (Minimal Wear)": {
+"last_updated": 1461006095,
+"quantity": 784,
+"value": 9
+},
+"CZ75-Auto | Chalice (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 105,
+"value": 2536
+},
+"CZ75-Auto | Chalice (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 23,
+"value": 2826
+},
+"CZ75-Auto | Crimson Web (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 87,
+"value": 31
+},
+"CZ75-Auto | Crimson Web (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 18,
+"value": 1245
+},
+"CZ75-Auto | Crimson Web (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 113,
+"value": 31
+},
+"CZ75-Auto | Crimson Web (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 98,
+"value": 98
+},
+"CZ75-Auto | Crimson Web (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 74,
+"value": 60
+},
+"CZ75-Auto | Emerald (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 122,
+"value": 231
+},
+"CZ75-Auto | Emerald (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 52,
+"value": 372
+},
+"CZ75-Auto | Green Plaid (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 77,
+"value": 57
+},
+"CZ75-Auto | Green Plaid (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 50,
+"value": 106
+},
+"CZ75-Auto | Green Plaid (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 102,
+"value": 25
+},
+"CZ75-Auto | Green Plaid (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 104,
+"value": 39
+},
+"CZ75-Auto | Green Plaid (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 59,
+"value": 109
+},
+"CZ75-Auto | Hexane (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 212,
+"value": 69
+},
+"CZ75-Auto | Hexane (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 135,
+"value": 26
+},
+"CZ75-Auto | Hexane (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 141,
+"value": 30
+},
+"CZ75-Auto | Hexane (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 48,
+"value": 66
+},
+"CZ75-Auto | Nitro (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 46,
+"value": 157
+},
+"CZ75-Auto | Nitro (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 11,
+"value": 1941
+},
+"CZ75-Auto | Nitro (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 191,
+"value": 177
+},
+"CZ75-Auto | Nitro (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 37,
+"value": 293
+},
+"CZ75-Auto | Nitro (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 37,
+"value": 176
+},
+"CZ75-Auto | Poison Dart (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 47,
+"value": 71
+},
+"CZ75-Auto | Poison Dart (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 39,
+"value": 213
+},
+"CZ75-Auto | Poison Dart (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 69,
+"value": 62
+},
+"CZ75-Auto | Poison Dart (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 43,
+"value": 106
+},
+"CZ75-Auto | Poison Dart (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 15,
+"value": 198
+},
+"CZ75-Auto | Pole Position (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 391,
+"value": 31
+},
+"CZ75-Auto | Pole Position (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 279,
+"value": 61
+},
+"CZ75-Auto | Pole Position (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 1558,
+"value": 28
+},
+"CZ75-Auto | Pole Position (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 707,
+"value": 35
+},
+"CZ75-Auto | Pole Position (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 134,
+"value": 32
+},
+"CZ75-Auto | The Fuschia Is Now (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 73,
+"value": 438
+},
+"CZ75-Auto | The Fuschia Is Now (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 37,
+"value": 293
+},
+"CZ75-Auto | The Fuschia Is Now (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 34,
+"value": 354
+},
+"CZ75-Auto | The Fuschia Is Now (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 8,
+"value": 906
+},
+"CZ75-Auto | Tigris (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 329,
+"value": 32
+},
+"CZ75-Auto | Tigris (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 72,
+"value": 115
+},
+"CZ75-Auto | Tigris (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 1175,
+"value": 32
+},
+"CZ75-Auto | Tigris (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 394,
+"value": 40
+},
+"CZ75-Auto | Tigris (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 470,
+"value": 31
+},
+"CZ75-Auto | Tread Plate (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 165,
+"value": 84
+},
+"CZ75-Auto | Tread Plate (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 45,
+"value": 105
+},
+"CZ75-Auto | Tread Plate (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 99,
+"value": 64
+},
+"CZ75-Auto | Tuxedo (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 253,
+"value": 15
+},
+"CZ75-Auto | Tuxedo (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 68,
+"value": 43
+},
+"CZ75-Auto | Tuxedo (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 530,
+"value": 15
+},
+"CZ75-Auto | Tuxedo (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 261,
+"value": 25
+},
+"CZ75-Auto | Tuxedo (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 144,
+"value": 26
+},
+"CZ75-Auto | Twist (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 263,
+"value": 14
+},
+"CZ75-Auto | Twist (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 109,
+"value": 55
+},
+"CZ75-Auto | Twist (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 422,
+"value": 15
+},
+"CZ75-Auto | Twist (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 150,
+"value": 21
+},
+"CZ75-Auto | Twist (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 230,
+"value": 14
+},
+"CZ75-Auto | Victoria (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 16,
+"value": 476
+},
+"CZ75-Auto | Victoria (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 20,
+"value": 1360
+},
+"CZ75-Auto | Victoria (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 48,
+"value": 509
+},
+"CZ75-Auto | Victoria (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 57,
+"value": 656
+},
+"CZ75-Auto | Victoria (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 8,
+"value": 630
+},
+"CZ75-Auto | Yellow Jacket (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 136,
+"value": 220
+},
+"CZ75-Auto | Yellow Jacket (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 39,
+"value": 617
+},
+"CZ75-Auto | Yellow Jacket (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 309,
+"value": 258
+},
+"CZ75-Auto | Yellow Jacket (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 147,
+"value": 387
+},
+"CZ75-Auto | Yellow Jacket (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 186,
+"value": 244
+},
+"Desert Eagle | Blaze (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 24,
+"value": 5854
+},
+"Desert Eagle | Blaze (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 10,
+"value": 5989
+},
+"Desert Eagle | Bronze Deco (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 193,
+"value": 16
+},
+"Desert Eagle | Bronze Deco (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 3754,
+"value": 15
+},
+"Desert Eagle | Bronze Deco (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 6012,
+"value": 11
+},
+"Desert Eagle | Bronze Deco (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 3134,
+"value": 12
+},
+"Desert Eagle | Bronze Deco (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 764,
+"value": 13
+},
+"Desert Eagle | Cobalt Disruption (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 90,
+"value": 605
+},
+"Desert Eagle | Cobalt Disruption (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 29,
+"value": 609
+},
+"Desert Eagle | Cobalt Disruption (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 81,
+"value": 560
+},
+"Desert Eagle | Conspiracy (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 348,
+"value": 280
+},
+"Desert Eagle | Conspiracy (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 100,
+"value": 213
+},
+"Desert Eagle | Conspiracy (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 378,
+"value": 208
+},
+"Desert Eagle | Corinthian (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 1275,
+"value": 43
+},
+"Desert Eagle | Corinthian (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 1687,
+"value": 24
+},
+"Desert Eagle | Corinthian (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 1288,
+"value": 28
+},
+"Desert Eagle | Corinthian (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 127,
+"value": 34
+},
+"Desert Eagle | Crimson Web (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 69,
+"value": 94
+},
+"Desert Eagle | Crimson Web (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 8,
+"value": 3700
+},
+"Desert Eagle | Crimson Web (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 187,
+"value": 89
+},
+"Desert Eagle | Crimson Web (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 58,
+"value": 434
+},
+"Desert Eagle | Crimson Web (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 67,
+"value": 145
+},
+"Desert Eagle | Golden Koi (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 38,
+"value": 1541
+},
+"Desert Eagle | Golden Koi (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 15,
+"value": 1420
+},
+"Desert Eagle | Hand Cannon (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 9,
+"value": 2510
+},
+"Desert Eagle | Hand Cannon (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 23,
+"value": 2848
+},
+"Desert Eagle | Hand Cannon (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 29,
+"value": 2674
+},
+"Desert Eagle | Hand Cannon (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 31,
+"value": 2618
+},
+"Desert Eagle | Hand Cannon (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 7,
+"value": 2760
+},
+"Desert Eagle | Heirloom (Battle-Scarred)": {
+"last_updated": 1461006127,
+"quantity": 119,
+"value": 108
+},
+"Desert Eagle | Heirloom (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 42,
+"value": 330
+},
+"Desert Eagle | Heirloom (Field-Tested)": {
+"last_updated": 1461006127,
+"quantity": 98,
+"value": 84
+},
+"Desert Eagle | Heirloom (Minimal Wear)": {
+"last_updated": 1461006127,
+"quantity": 77,
+"value": 135
+},
+"Desert Eagle | Heirloom (Well-Worn)": {
+"last_updated": 1461006127,
+"quantity": 22,
+"value": 180
+},
+"Desert Eagle | Hypnotic (Factory New)": {
+"last_updated": 1461006127,
+"quantity": 91,
+"value": 776
+},
+"Desert Eagle | Hypnotic (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 11,
+"value": 1345
+},
+"Desert Eagle | Kumicho Dragon (Battle-Scarred)": {
+"last_updated": 1461006139,
+"quantity": 92,
+"value": 450
+},
+"Desert Eagle | Kumicho Dragon (Factory New)": {
+"last_updated": 1461006139,
+"quantity": 51,
+"value": 1442
+},
+"Desert Eagle | Kumicho Dragon (Field-Tested)": {
+"last_updated": 1461006139,
+"quantity": 290,
+"value": 520
+},
+"Desert Eagle | Kumicho Dragon (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 188,
+"value": 794
+},
+"Desert Eagle | Kumicho Dragon (Well-Worn)": {
+"last_updated": 1461006139,
+"quantity": 33,
+"value": 655
+},
+"Desert Eagle | Meteorite (Factory New)": {
+"last_updated": 1461006139,
+"quantity": 1291,
+"value": 39
+},
+"Desert Eagle | Meteorite (Field-Tested)": {
+"last_updated": 1461006139,
+"quantity": 189,
+"value": 28
+},
+"Desert Eagle | Meteorite (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 619,
+"value": 28
+},
+"Desert Eagle | Midnight Storm (Battle-Scarred)": {
+"last_updated": 1461006139,
+"quantity": 137,
+"value": 28
+},
+"Desert Eagle | Midnight Storm (Factory New)": {
+"last_updated": 1461006139,
+"quantity": 98,
+"value": 379
+},
+"Desert Eagle | Midnight Storm (Field-Tested)": {
+"last_updated": 1461006139,
+"quantity": 524,
+"value": 36
+},
+"Desert Eagle | Midnight Storm (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 132,
+"value": 197
+},
+"Desert Eagle | Midnight Storm (Well-Worn)": {
+"last_updated": 1461006139,
+"quantity": 45,
+"value": 114
+},
+"Desert Eagle | Mudder (Battle-Scarred)": {
+"last_updated": 1461006139,
+"quantity": 1606,
+"value": 6
+},
+"Desert Eagle | Mudder (Factory New)": {
+"last_updated": 1461006139,
+"quantity": 87,
+"value": 99
+},
+"Desert Eagle | Mudder (Field-Tested)": {
+"last_updated": 1461006139,
+"quantity": 6679,
+"value": 6
+},
+"Desert Eagle | Mudder (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 1411,
+"value": 9
+},
+"Desert Eagle | Mudder (Well-Worn)": {
+"last_updated": 1461006139,
+"quantity": 840,
+"value": 8
+},
+"Desert Eagle | Naga (Battle-Scarred)": {
+"last_updated": 1461006139,
+"quantity": 215,
+"value": 39
+},
+"Desert Eagle | Naga (Factory New)": {
+"last_updated": 1461006139,
+"quantity": 69,
+"value": 169
+},
+"Desert Eagle | Naga (Field-Tested)": {
+"last_updated": 1461006139,
+"quantity": 484,
+"value": 38
+},
+"Desert Eagle | Naga (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 280,
+"value": 50
+},
+"Desert Eagle | Naga (Well-Worn)": {
+"last_updated": 1461006139,
+"quantity": 183,
+"value": 38
+},
+"Desert Eagle | Night (Battle-Scarred)": {
+"last_updated": 1461006139,
+"quantity": 179,
+"value": 23
+},
+"Desert Eagle | Night (Factory New)": {
+"last_updated": 1461006139,
+"quantity": 48,
+"value": 1228
+},
+"Desert Eagle | Night (Field-Tested)": {
+"last_updated": 1461006139,
+"quantity": 807,
+"value": 23
+},
+"Desert Eagle | Night (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 262,
+"value": 86
+},
+"Desert Eagle | Night (Well-Worn)": {
+"last_updated": 1461006139,
+"quantity": 82,
+"value": 39
+},
+"Desert Eagle | Pilot (Battle-Scarred)": {
+"last_updated": 1461006139,
+"quantity": 15,
+"value": 957
+},
+"Desert Eagle | Pilot (Factory New)": {
+"last_updated": 1461006139,
+"quantity": 7,
+"value": 4020
+},
+"Desert Eagle | Pilot (Field-Tested)": {
+"last_updated": 1461006139,
+"quantity": 15,
+"value": 1044
+},
+"Desert Eagle | Pilot (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 19,
+"value": 1538
+},
+"Desert Eagle | Pilot (Well-Worn)": {
+"last_updated": 1461006139,
+"quantity": 16,
+"value": 1035
+},
+"Desert Eagle | Sunset Storm \u58f1 (Battle-Scarred)": {
+"last_updated": 1461006139,
+"quantity": 18,
+"value": 695
+},
+"Desert Eagle | Sunset Storm \u58f1 (Factory New)": {
+"last_updated": 1461006139,
+"quantity": 20,
+"value": 1914
+},
+"Desert Eagle | Sunset Storm \u58f1 (Field-Tested)": {
+"last_updated": 1461006139,
+"quantity": 15,
+"value": 902
+},
+"Desert Eagle | Sunset Storm \u58f1 (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 16,
+"value": 1495
+},
+"Desert Eagle | Sunset Storm \u58f1 (Well-Worn)": {
+"last_updated": 1461006139,
+"quantity": 12,
+"value": 1153
+},
+"Desert Eagle | Sunset Storm \u5f10 (Battle-Scarred)": {
+"last_updated": 1461006139,
+"quantity": 14,
+"value": 710
+},
+"Desert Eagle | Sunset Storm \u5f10 (Factory New)": {
+"last_updated": 1461006139,
+"quantity": 16,
+"value": 1823
+},
+"Desert Eagle | Sunset Storm \u5f10 (Field-Tested)": {
+"last_updated": 1461006139,
+"quantity": 27,
+"value": 880
+},
+"Desert Eagle | Sunset Storm \u5f10 (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 14,
+"value": 1662
+},
+"Desert Eagle | Sunset Storm \u5f10 (Well-Worn)": {
+"last_updated": 1461006139,
+"quantity": 3,
+"value": 811
+},
+"Desert Eagle | Urban DDPAT (Battle-Scarred)": {
+"last_updated": 1461006139,
+"quantity": 151,
+"value": 19
+},
+"Desert Eagle | Urban DDPAT (Factory New)": {
+"last_updated": 1461006139,
+"quantity": 22,
+"value": 362
+},
+"Desert Eagle | Urban DDPAT (Field-Tested)": {
+"last_updated": 1461006139,
+"quantity": 478,
+"value": 23
+},
+"Desert Eagle | Urban DDPAT (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 166,
+"value": 41
+},
+"Desert Eagle | Urban DDPAT (Well-Worn)": {
+"last_updated": 1461006139,
+"quantity": 123,
+"value": 20
+},
+"Desert Eagle | Urban Rubble (Battle-Scarred)": {
+"last_updated": 1461006139,
+"quantity": 227,
+"value": 16
+},
+"Desert Eagle | Urban Rubble (Factory New)": {
+"last_updated": 1461006139,
+"quantity": 283,
+"value": 24
+},
+"Desert Eagle | Urban Rubble (Field-Tested)": {
+"last_updated": 1461006139,
+"quantity": 851,
+"value": 12
+},
+"Desert Eagle | Urban Rubble (Minimal Wear)": {
+"last_updated": 1461006139,
+"quantity": 639,
+"value": 15
+},
+"Desert Eagle | Urban Rubble (Well-Worn)": {
+"last_updated": 1461006139,
+"quantity": 98,
+"value": 31
+},
+  "Dual Berettas | Anodized Navy (Factory New)": {
+    "last_updated": 1461006139,
+    "quantity": 221,
+    "value": 23
+  },
+  "Dual Berettas | Anodized Navy (Minimal Wear)": {
+    "last_updated": 1461006139,
+    "quantity": 31,
+    "value": 121
+  },
+  "Dual Berettas | Black Limba (Battle-Scarred)": {
+    "last_updated": 1461006139,
+    "quantity": 58,
+    "value": 73
+  },
+  "Dual Berettas | Black Limba (Factory New)": {
+    "last_updated": 1461006139,
+    "quantity": 17,
+    "value": 480
+  },
+  "Dual Berettas | Black Limba (Field-Tested)": {
+    "last_updated": 1461006139,
+    "quantity": 114,
+    "value": 78
+  },
+  "Dual Berettas | Black Limba (Minimal Wear)": {
+    "last_updated": 1461006139,
+    "quantity": 51,
+    "value": 97
+  },
+  "Dual Berettas | Black Limba (Well-Worn)": {
+    "last_updated": 1461006139,
+    "quantity": 41,
+    "value": 70
+  },
+  "Dual Berettas | Briar (Factory New)": {
+    "last_updated": 1461006139,
+    "quantity": 695,
+    "value": 23
+  },
+  "Dual Berettas | Briar (Field-Tested)": {
+    "last_updated": 1461006139,
+    "quantity": 391,
+    "value": 8
+  },
+  "Dual Berettas | Briar (Minimal Wear)": {
+    "last_updated": 1461006139,
+    "quantity": 854,
+    "value": 9
+  },
+  "Dual Berettas | Cartel (Battle-Scarred)": {
+    "last_updated": 1461006139,
+    "quantity": 539,
+    "value": 11
+  },
+  "Dual Berettas | Cartel (Factory New)": {
+    "last_updated": 1461006139,
+    "quantity": 155,
+    "value": 31
+  },
+  "Dual Berettas | Cartel (Field-Tested)": {
+    "last_updated": 1461006139,
+    "quantity": 1151,
+    "value": 11
+  },
+  "Dual Berettas | Cartel (Minimal Wear)": {
+    "last_updated": 1461006139,
+    "quantity": 743,
+    "value": 13
+  },
+  "Dual Berettas | Cartel (Well-Worn)": {
+    "last_updated": 1461006139,
+    "quantity": 973,
+    "value": 10
+  },
+  "Dual Berettas | Cobalt Quartz (Factory New)": {
+    "last_updated": 1461006139,
+    "quantity": 521,
+    "value": 31
+  },
+  "Dual Berettas | Cobalt Quartz (Field-Tested)": {
+    "last_updated": 1461006139,
+    "quantity": 1690,
+    "value": 28
+  },
+  "Dual Berettas | Cobalt Quartz (Minimal Wear)": {
+    "last_updated": 1461006139,
+    "quantity": 1177,
+    "value": 30
+  },
+  "Dual Berettas | Cobalt Quartz (Well-Worn)": {
+    "last_updated": 1461006139,
+    "quantity": 113,
+    "value": 46
+  },
+  "Dual Berettas | Colony (Battle-Scarred)": {
+    "last_updated": 1461006139,
+    "quantity": 10014,
+    "value": 4
+  },
+  "Dual Berettas | Colony (Factory New)": {
+    "last_updated": 1461006139,
+    "quantity": 267,
+    "value": 15
+  },
+  "Dual Berettas | Colony (Field-Tested)": {
+    "last_updated": 1461006139,
+    "quantity": 66519,
+    "value": 4
+  },
+  "Dual Berettas | Colony (Minimal Wear)": {
+    "last_updated": 1461006139,
+    "quantity": 12043,
+    "value": 4
+  },
+  "Dual Berettas | Colony (Well-Worn)": {
+    "last_updated": 1461006139,
+    "quantity": 6643,
+    "value": 4
+  },
+  "Dual Berettas | Contractor (Battle-Scarred)": {
+    "last_updated": 1461006139,
+    "quantity": 9916,
+    "value": 4
+  },
+  "Dual Berettas | Contractor (Factory New)": {
+    "last_updated": 1461006139,
+    "quantity": 191,
+    "value": 17
+  },
+  "Dual Berettas | Contractor (Field-Tested)": {
+    "last_updated": 1461006139,
+    "quantity": 58131,
+    "value": 4
+  },
+  "Dual Berettas | Contractor (Minimal Wear)": {
+    "last_updated": 1461006139,
+    "quantity": 13656,
+    "value": 4
+  },
+  "Dual Berettas | Contractor (Well-Worn)": {
+    "last_updated": 1461006151,
+    "quantity": 6594,
+    "value": 4
+  },
+  "Dual Berettas | Demolition (Battle-Scarred)": {
+    "last_updated": 1461006151,
+    "quantity": 21,
+    "value": 254
+  },
+  "Dual Berettas | Demolition (Field-Tested)": {
+    "last_updated": 1461006151,
+    "quantity": 58,
+    "value": 190
+  },
+  "Dual Berettas | Demolition (Well-Worn)": {
+    "last_updated": 1461006151,
+    "quantity": 35,
+    "value": 130
+  },
+  "Dual Berettas | Dualing Dragons (Battle-Scarred)": {
+    "last_updated": 1461006151,
+    "quantity": 1339,
+    "value": 12
+  },
+  "Dual Berettas | Dualing Dragons (Factory New)": {
+    "last_updated": 1461006151,
+    "quantity": 212,
+    "value": 71
+  },
+  "Dual Berettas | Dualing Dragons (Field-Tested)": {
+    "last_updated": 1461006151,
+    "quantity": 2487,
+    "value": 11
+  },
+  "Dual Berettas | Dualing Dragons (Minimal Wear)": {
+    "last_updated": 1461006151,
+    "quantity": 1357,
+    "value": 15
+  },
+  "Dual Berettas | Dualing Dragons (Well-Worn)": {
+    "last_updated": 1461006151,
+    "quantity": 1774,
+    "value": 11
+  },
+  "Dual Berettas | Duelist (Battle-Scarred)": {
+    "last_updated": 1461006151,
+    "quantity": 22,
+    "value": 795
+  },
+  "Dual Berettas | Duelist (Factory New)": {
+    "last_updated": 1461006151,
+    "quantity": 18,
+    "value": 1938
+  },
+  "Dual Berettas | Duelist (Field-Tested)": {
+    "last_updated": 1461006151,
+    "quantity": 30,
+    "value": 880
+  },
+  "Dual Berettas | Duelist (Minimal Wear)": {
+    "last_updated": 1461006151,
+    "quantity": 27,
+    "value": 1115
+  },
+  "Dual Berettas | Duelist (Well-Worn)": {
+    "last_updated": 1461006151,
+    "quantity": 18,
+    "value": 1060
+  },
+  "Dual Berettas | Hemoglobin (Factory New)": {
+    "last_updated": 1461006151,
+    "quantity": 73,
+    "value": 124
+  },
+  "Dual Berettas | Hemoglobin (Field-Tested)": {
+    "last_updated": 1461006151,
+    "quantity": 38,
+    "value": 100
+  },
+  "Dual Berettas | Hemoglobin (Minimal Wear)": {
+    "last_updated": 1461006151,
+    "quantity": 92,
+    "value": 117
+  },
+  "Dual Berettas | Marina (Battle-Scarred)": {
+    "last_updated": 1461006151,
+    "quantity": 40,
+    "value": 131
+  },
+  "Dual Berettas | Marina (Factory New)": {
+    "last_updated": 1461006151,
+    "quantity": 27,
+    "value": 475
+  },
+  "Dual Berettas | Marina (Field-Tested)": {
+    "last_updated": 1461006151,
+    "quantity": 169,
+    "value": 100
+  },
+  "Dual Berettas | Marina (Minimal Wear)": {
+    "last_updated": 1461006151,
+    "quantity": 112,
+    "value": 126
+  },
+  "Dual Berettas | Marina (Well-Worn)": {
+    "last_updated": 1461006151,
+    "quantity": 47,
+    "value": 129
+  },
+  "Dual Berettas | Moon in Libra (Battle-Scarred)": {
+    "last_updated": 1461006151,
+    "quantity": 109,
+    "value": 20
+  },
+  "Dual Berettas | Moon in Libra (Factory New)": {
+    "last_updated": 1461006151,
+    "quantity": 488,
+    "value": 28
+  },
+  "Dual Berettas | Moon in Libra (Field-Tested)": {
+    "last_updated": 1461006151,
+    "quantity": 623,
+    "value": 20
+  },
+  "Dual Berettas | Moon in Libra (Minimal Wear)": {
+    "last_updated": 1461006151,
+    "quantity": 419,
+    "value": 25
+  },
+  "Dual Berettas | Moon in Libra (Well-Worn)": {
+    "last_updated": 1461006151,
+    "quantity": 121,
+    "value": 21
+  },
+  "Dual Berettas | Panther (Battle-Scarred)": {
+    "last_updated": 1461006151,
+    "quantity": 71,
+    "value": 59
+  },
+  "Dual Berettas | Panther (Factory New)": {
+    "last_updated": 1461006151,
+    "quantity": 89,
+    "value": 103
+  },
+  "Dual Berettas | Panther (Field-Tested)": {
+    "last_updated": 1461006151,
+    "quantity": 471,
+    "value": 25
+  },
+  "Dual Berettas | Panther (Minimal Wear)": {
+    "last_updated": 1461006151,
+    "quantity": 108,
+    "value": 49
+  },
+  "Dual Berettas | Panther (Well-Worn)": {
+    "last_updated": 1461006151,
+    "quantity": 73,
+    "value": 69
+  },
+  "Dual Berettas | Retribution (Factory New)": {
+    "last_updated": 1461006151,
+    "quantity": 64,
+    "value": 77
+  },
+  "Dual Berettas | Retribution (Field-Tested)": {
+    "last_updated": 1461006151,
+    "quantity": 54,
+    "value": 80
+  },
+  "Dual Berettas | Retribution (Minimal Wear)": {
+    "last_updated": 1461006151,
+    "quantity": 48,
+    "value": 62
+  },
+  "Dual Berettas | Retribution (Well-Worn)": {
+    "last_updated": 1461006151,
+    "quantity": 15,
+    "value": 1273
+  },
+  "Dual Berettas | Stained (Battle-Scarred)": {
+    "last_updated": 1461006151,
+    "quantity": 1594,
+    "value": 6
+  },
+  "Dual Berettas | Stained (Factory New)": {
+    "last_updated": 1461006151,
+    "quantity": 156,
+    "value": 16
+  },
+  "Dual Berettas | Stained (Field-Tested)": {
+    "last_updated": 1461006151,
+    "quantity": 4144,
+    "value": 6
+  },
+  "Dual Berettas | Stained (Minimal Wear)": {
+    "last_updated": 1461006151,
+    "quantity": 2371,
+    "value": 7
+  },
+  "Dual Berettas | Stained (Well-Worn)": {
+    "last_updated": 1461006151,
+    "quantity": 1883,
+    "value": 6
+  },
+  "Dual Berettas | Urban Shock (Battle-Scarred)": {
+    "last_updated": 1461006151,
+    "quantity": 52,
+    "value": 86
+  },
+  "Dual Berettas | Urban Shock (Factory New)": {
+    "last_updated": 1461006151,
+    "quantity": 186,
+    "value": 71
+  },
+  "Dual Berettas | Urban Shock (Field-Tested)": {
+    "last_updated": 1461006151,
+    "quantity": 517,
+    "value": 37
+  },
+  "Dual Berettas | Urban Shock (Minimal Wear)": {
+    "last_updated": 1461006151,
+    "quantity": 198,
+    "value": 46
+  },
+  "Dual Berettas | Urban Shock (Well-Worn)": {
+    "last_updated": 1461006151,
+    "quantity": 135,
+    "value": 61
+  },
+  "Five-SeveN | Anodized Gunmetal (Factory New)": {
+    "last_updated": 1461006163,
+    "quantity": 175,
+    "value": 127
+  },
+  "Five-SeveN | Anodized Gunmetal (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 155,
+    "value": 180
+  },
+  "Five-SeveN | Candy Apple (Factory New)": {
+    "last_updated": 1461006163,
+    "quantity": 75,
+    "value": 1063
+  },
+  "Five-SeveN | Candy Apple (Field-Tested)": {
+    "last_updated": 1461006163,
+    "quantity": 12,
+    "value": 1081
+  },
+  "Five-SeveN | Candy Apple (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 85,
+    "value": 915
+  },
+  "Five-SeveN | Case Hardened (Battle-Scarred)": {
+    "last_updated": 1461006163,
+    "quantity": 112,
+    "value": 316
+  },
+  "Five-SeveN | Case Hardened (Factory New)": {
+    "last_updated": 1461006163,
+    "quantity": 89,
+    "value": 1262
+  },
+  "Five-SeveN | Case Hardened (Field-Tested)": {
+    "last_updated": 1461006163,
+    "quantity": 219,
+    "value": 360
+  },
+  "Five-SeveN | Case Hardened (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 201,
+    "value": 556
+  },
+  "Five-SeveN | Case Hardened (Well-Worn)": {
+    "last_updated": 1461006163,
+    "quantity": 142,
+    "value": 330
+  },
+  "Five-SeveN | Contractor (Battle-Scarred)": {
+    "last_updated": 1461006163,
+    "quantity": 135,
+    "value": 34
+  },
+  "Five-SeveN | Contractor (Factory New)": {
+    "last_updated": 1461006163,
+    "quantity": 15,
+    "value": 501
+  },
+  "Five-SeveN | Contractor (Field-Tested)": {
+    "last_updated": 1461006163,
+    "quantity": 166,
+    "value": 16
+  },
+  "Five-SeveN | Contractor (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 69,
+    "value": 39
+  },
+  "Five-SeveN | Contractor (Well-Worn)": {
+    "last_updated": 1461006163,
+    "quantity": 91,
+    "value": 32
+  },
+  "Five-SeveN | Copper Galaxy (Factory New)": {
+    "last_updated": 1461006163,
+    "quantity": 114,
+    "value": 163
+  },
+  "Five-SeveN | Copper Galaxy (Field-Tested)": {
+    "last_updated": 1461006163,
+    "quantity": 16,
+    "value": 111
+  },
+  "Five-SeveN | Copper Galaxy (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 79,
+    "value": 166
+  },
+  "Five-SeveN | Forest Night (Battle-Scarred)": {
+    "last_updated": 1461006163,
+    "quantity": 10750,
+    "value": 4
+  },
+  "Five-SeveN | Forest Night (Factory New)": {
+    "last_updated": 1461006163,
+    "quantity": 208,
+    "value": 30
+  },
+  "Five-SeveN | Forest Night (Field-Tested)": {
+    "last_updated": 1461006163,
+    "quantity": 47780,
+    "value": 4
+  },
+  "Five-SeveN | Forest Night (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 5154,
+    "value": 6
+  },
+  "Five-SeveN | Forest Night (Well-Worn)": {
+    "last_updated": 1461006163,
+    "quantity": 7112,
+    "value": 4
+  },
+  "Five-SeveN | Fowl Play (Battle-Scarred)": {
+    "last_updated": 1461006163,
+    "quantity": 111,
+    "value": 135
+  },
+  "Five-SeveN | Fowl Play (Factory New)": {
+    "last_updated": 1461006163,
+    "quantity": 59,
+    "value": 302
+  },
+  "Five-SeveN | Fowl Play (Field-Tested)": {
+    "last_updated": 1461006163,
+    "quantity": 250,
+    "value": 134
+  },
+  "Five-SeveN | Fowl Play (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 170,
+    "value": 189
+  },
+  "Five-SeveN | Fowl Play (Well-Worn)": {
+    "last_updated": 1461006163,
+    "quantity": 184,
+    "value": 138
+  },
+  "Five-SeveN | Hot Shot (Battle-Scarred)": {
+    "last_updated": 1461006163,
+    "quantity": 133,
+    "value": 15
+  },
+  "Five-SeveN | Hot Shot (Factory New)": {
+    "last_updated": 1461006163,
+    "quantity": 52,
+    "value": 184
+  },
+  "Five-SeveN | Hot Shot (Field-Tested)": {
+    "last_updated": 1461006163,
+    "quantity": 239,
+    "value": 19
+  },
+  "Five-SeveN | Hot Shot (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 474,
+    "value": 47
+  },
+  "Five-SeveN | Hot Shot (Well-Worn)": {
+    "last_updated": 1461006163,
+    "quantity": 164,
+    "value": 18
+  },
+  "Five-SeveN | Jungle (Battle-Scarred)": {
+    "last_updated": 1461006163,
+    "quantity": 116,
+    "value": 48
+  },
+  "Five-SeveN | Jungle (Factory New)": {
+    "last_updated": 1461006163,
+    "quantity": 13,
+    "value": 1435
+  },
+  "Five-SeveN | Jungle (Field-Tested)": {
+    "last_updated": 1461006163,
+    "quantity": 107,
+    "value": 111
+  },
+  "Five-SeveN | Jungle (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 157,
+    "value": 56
+  },
+  "Five-SeveN | Jungle (Well-Worn)": {
+    "last_updated": 1461006163,
+    "quantity": 91,
+    "value": 46
+  },
+  "Five-SeveN | Kami (Factory New)": {
+    "last_updated": 1461006163,
+    "quantity": 197,
+    "value": 53
+  },
+  "Five-SeveN | Kami (Field-Tested)": {
+    "last_updated": 1461006163,
+    "quantity": 102,
+    "value": 38
+  },
+  "Five-SeveN | Kami (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 226,
+    "value": 42
+  },
+  "Five-SeveN | Monkey Business (Battle-Scarred)": {
+    "last_updated": 1461006163,
+    "quantity": 179,
+    "value": 128
+  },
+  "Five-SeveN | Monkey Business (Field-Tested)": {
+    "last_updated": 1461006163,
+    "quantity": 868,
+    "value": 155
+  },
+  "Five-SeveN | Monkey Business (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 49,
+    "value": 705
+  },
+  "Five-SeveN | Monkey Business (Well-Worn)": {
+    "last_updated": 1461006163,
+    "quantity": 252,
+    "value": 139
+  },
+  "Five-SeveN | Neon Kimono (Battle-Scarred)": {
+    "last_updated": 1461006163,
+    "quantity": 28,
+    "value": 740
+  },
+  "Five-SeveN | Neon Kimono (Factory New)": {
+    "last_updated": 1461006163,
+    "quantity": 19,
+    "value": 1895
+  },
+  "Five-SeveN | Neon Kimono (Field-Tested)": {
+    "last_updated": 1461006163,
+    "quantity": 23,
+    "value": 857
+  },
+  "Five-SeveN | Neon Kimono (Minimal Wear)": {
+    "last_updated": 1461006163,
+    "quantity": 16,
+    "value": 1488
+  },
+  "Five-SeveN | Neon Kimono (Well-Worn)": {
+    "last_updated": 1461006175,
+    "quantity": 7,
+    "value": 1105
+  },
+  "Five-SeveN | Nightshade (Battle-Scarred)": {
+    "last_updated": 1461006175,
+    "quantity": 42,
+    "value": 73
+  },
+  "Five-SeveN | Nightshade (Factory New)": {
+    "last_updated": 1461006175,
+    "quantity": 170,
+    "value": 63
+  },
+  "Five-SeveN | Nightshade (Field-Tested)": {
+    "last_updated": 1461006175,
+    "quantity": 116,
+    "value": 34
+  },
+  "Five-SeveN | Nightshade (Minimal Wear)": {
+    "last_updated": 1461006175,
+    "quantity": 135,
+    "value": 57
+  },
+  "Five-SeveN | Nightshade (Well-Worn)": {
+    "last_updated": 1461006175,
+    "quantity": 45,
+    "value": 78
+  },
+  "Five-SeveN | Nitro (Battle-Scarred)": {
+    "last_updated": 1461006175,
+    "quantity": 54,
+    "value": 86
+  },
+  "Five-SeveN | Nitro (Factory New)": {
+    "last_updated": 1461006175,
+    "quantity": 10,
+    "value": 1351
+  },
+  "Five-SeveN | Nitro (Field-Tested)": {
+    "last_updated": 1461006175,
+    "quantity": 112,
+    "value": 81
+  },
+  "Five-SeveN | Nitro (Minimal Wear)": {
+    "last_updated": 1461006175,
+    "quantity": 40,
+    "value": 176
+  },
+  "Five-SeveN | Nitro (Well-Worn)": {
+    "last_updated": 1461006175,
+    "quantity": 42,
+    "value": 87
+  },
+  "Five-SeveN | Orange Peel (Battle-Scarred)": {
+    "last_updated": 1461006175,
+    "quantity": 1855,
+    "value": 7
+  },
+  "Five-SeveN | Orange Peel (Factory New)": {
+    "last_updated": 1461006175,
+    "quantity": 56,
+    "value": 100
+  },
+  "Five-SeveN | Orange Peel (Field-Tested)": {
+    "last_updated": 1461006175,
+    "quantity": 6393,
+    "value": 6
+  },
+  "Five-SeveN | Orange Peel (Minimal Wear)": {
+    "last_updated": 1461006175,
+    "quantity": 734,
+    "value": 16
+  },
+  "Five-SeveN | Orange Peel (Well-Worn)": {
+    "last_updated": 1461006175,
+    "quantity": 671,
+    "value": 9
+  },
+  "Five-SeveN | Retrobution (Battle-Scarred)": {
+    "last_updated": 1461006175,
+    "quantity": 141,
+    "value": 62
+  },
+  "Five-SeveN | Retrobution (Factory New)": {
+    "last_updated": 1461006175,
+    "quantity": 52,
+    "value": 363
+  },
+  "Five-SeveN | Retrobution (Field-Tested)": {
+    "last_updated": 1461006175,
+    "quantity": 344,
+    "value": 64
+  },
+  "Five-SeveN | Retrobution (Minimal Wear)": {
+    "last_updated": 1461006175,
+    "quantity": 151,
+    "value": 129
+  },
+  "Five-SeveN | Retrobution (Well-Worn)": {
+    "last_updated": 1461006175,
+    "quantity": 239,
+    "value": 60
+  },
+  "Five-SeveN | Silver Quartz (Factory New)": {
+    "last_updated": 1461006175,
+    "quantity": 249,
+    "value": 56
+  },
+  "Five-SeveN | Silver Quartz (Field-Tested)": {
+    "last_updated": 1461006175,
+    "quantity": 307,
+    "value": 23
+  },
+  "Five-SeveN | Silver Quartz (Minimal Wear)": {
+    "last_updated": 1461006175,
+    "quantity": 433,
+    "value": 30
+  },
+  "Five-SeveN | Silver Quartz (Well-Worn)": {
+    "last_updated": 1461006175,
+    "quantity": 51,
+    "value": 43
+  },
+  "Five-SeveN | Triumvirate (Battle-Scarred)": {
+    "last_updated": 1461006175,
+    "quantity": 147,
+    "value": 57
+  },
+  "Five-SeveN | Triumvirate (Factory New)": {
+    "last_updated": 1461006175,
+    "quantity": 137,
+    "value": 139
+  },
+  "Five-SeveN | Triumvirate (Field-Tested)": {
+    "last_updated": 1461006175,
+    "quantity": 416,
+    "value": 54
+  },
+  "Five-SeveN | Triumvirate (Minimal Wear)": {
+    "last_updated": 1461006175,
+    "quantity": 184,
+    "value": 85
+  },
+  "Five-SeveN | Triumvirate (Well-Worn)": {
+    "last_updated": 1461006175,
+    "quantity": 39,
+    "value": 75
+  },
+  "Five-SeveN | Urban Hazard (Factory New)": {
+    "last_updated": 1461006175,
+    "quantity": 609,
+    "value": 66
+  },
+  "Five-SeveN | Urban Hazard (Field-Tested)": {
+    "last_updated": 1461006175,
+    "quantity": 101,
+    "value": 52
+  },
+  "Five-SeveN | Urban Hazard (Minimal Wear)": {
+    "last_updated": 1461006175,
+    "quantity": 331,
+    "value": 55
+  },
+  "Glock-18 | Blue Fissure (Battle-Scarred)": {
+    "last_updated": 1461006188,
+    "quantity": 120,
+    "value": 53
+  },
+  "Glock-18 | Blue Fissure (Factory New)": {
+    "last_updated": 1461006188,
+    "quantity": 22,
+    "value": 617
+  },
+  "Glock-18 | Blue Fissure (Field-Tested)": {
+    "last_updated": 1461006188,
+    "quantity": 227,
+    "value": 43
+  },
+  "Glock-18 | Blue Fissure (Minimal Wear)": {
+    "last_updated": 1461006188,
+    "quantity": 172,
+    "value": 85
+  },
+  "Glock-18 | Blue Fissure (Well-Worn)": {
+    "last_updated": 1461006188,
+    "quantity": 56,
+    "value": 93
+  },
+  "Glock-18 | Brass (Battle-Scarred)": {
+    "last_updated": 1461006188,
+    "quantity": 44,
+    "value": 190
+  },
+  "Glock-18 | Brass (Factory New)": {
+    "last_updated": 1461006188,
+    "quantity": 14,
+    "value": 1373
+  },
+  "Glock-18 | Brass (Field-Tested)": {
+    "last_updated": 1461006188,
+    "quantity": 44,
+    "value": 195
+  },
+  "Glock-18 | Brass (Minimal Wear)": {
+    "last_updated": 1461006188,
+    "quantity": 52,
+    "value": 397
+  },
+  "Glock-18 | Brass (Well-Worn)": {
+    "last_updated": 1461006188,
+    "quantity": 32,
+    "value": 200
+  },
+  "Glock-18 | Bunsen Burner (Battle-Scarred)": {
+    "last_updated": 1461006188,
+    "quantity": 845,
+    "value": 14
+  },
+  "Glock-18 | Bunsen Burner (Factory New)": {
+    "last_updated": 1461006188,
+    "quantity": 312,
+    "value": 47
+  },
+  "Glock-18 | Bunsen Burner (Field-Tested)": {
+    "last_updated": 1461006188,
+    "quantity": 3182,
+    "value": 14
+  },
+  "Glock-18 | Bunsen Burner (Minimal Wear)": {
+    "last_updated": 1461006188,
+    "quantity": 1121,
+    "value": 18
+  },
+  "Glock-18 | Bunsen Burner (Well-Worn)": {
+    "last_updated": 1461006188,
+    "quantity": 125,
+    "value": 25
+  },
+  "Glock-18 | Candy Apple (Factory New)": {
+    "last_updated": 1461006188,
+    "quantity": 738,
+    "value": 63
+  },
+  "Glock-18 | Candy Apple (Field-Tested)": {
+    "last_updated": 1461006188,
+    "quantity": 227,
+    "value": 38
+  },
+  "Glock-18 | Candy Apple (Minimal Wear)": {
+    "last_updated": 1461006188,
+    "quantity": 1142,
+    "value": 42
+  },
+  "Glock-18 | Catacombs (Battle-Scarred)": {
+    "last_updated": 1461006188,
+    "quantity": 117,
+    "value": 21
+  },
+  "Glock-18 | Catacombs (Factory New)": {
+    "last_updated": 1461006188,
+    "quantity": 655,
+    "value": 19
+  },
+  "Glock-18 | Catacombs (Field-Tested)": {
+    "last_updated": 1461006188,
+    "quantity": 1361,
+    "value": 12
+  },
+  "Glock-18 | Catacombs (Minimal Wear)": {
+    "last_updated": 1461006188,
+    "quantity": 676,
+    "value": 14
+  },
+  "Glock-18 | Catacombs (Well-Worn)": {
+    "last_updated": 1461006231,
+    "quantity": 181,
+    "value": 18
+  },
+  "Glock-18 | Death Rattle (Battle-Scarred)": {
+    "last_updated": 1461006231,
+    "quantity": 184,
+    "value": 10
+  },
+  "Glock-18 | Death Rattle (Field-Tested)": {
+    "last_updated": 1461006231,
+    "quantity": 6155,
+    "value": 6
+  },
+  "Glock-18 | Death Rattle (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 1861,
+    "value": 8
+  },
+  "Glock-18 | Death Rattle (Well-Worn)": {
+    "last_updated": 1461006231,
+    "quantity": 166,
+    "value": 9
+  },
+  "Glock-18 | Dragon Tattoo (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 187,
+    "value": 786
+  },
+  "Glock-18 | Dragon Tattoo (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 33,
+    "value": 841
+  },
+  "Glock-18 | Fade (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 12,
+    "value": 34700
+  },
+  "Glock-18 | Grinder (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 478,
+    "value": 74
+  },
+  "Glock-18 | Grinder (Field-Tested)": {
+    "last_updated": 1461006231,
+    "quantity": 60,
+    "value": 77
+  },
+  "Glock-18 | Grinder (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 216,
+    "value": 65
+  },
+  "Glock-18 | Groundwater (Battle-Scarred)": {
+    "last_updated": 1461006231,
+    "quantity": 74,
+    "value": 76
+  },
+  "Glock-18 | Groundwater (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 2,
+    "value": 2245
+  },
+  "Glock-18 | Groundwater (Field-Tested)": {
+    "last_updated": 1461006231,
+    "quantity": 229,
+    "value": 77
+  },
+  "Glock-18 | Groundwater (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 82,
+    "value": 112
+  },
+  "Glock-18 | Groundwater (Well-Worn)": {
+    "last_updated": 1461006231,
+    "quantity": 40,
+    "value": 88
+  },
+  "Glock-18 | Night (Battle-Scarred)": {
+    "last_updated": 1461006231,
+    "quantity": 106,
+    "value": 20
+  },
+  "Glock-18 | Night (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 28,
+    "value": 906
+  },
+  "Glock-18 | Night (Field-Tested)": {
+    "last_updated": 1461006231,
+    "quantity": 454,
+    "value": 23
+  },
+  "Glock-18 | Night (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 132,
+    "value": 53
+  },
+  "Glock-18 | Night (Well-Worn)": {
+    "last_updated": 1461006231,
+    "quantity": 136,
+    "value": 28
+  },
+  "Glock-18 | Reactor (Battle-Scarred)": {
+    "last_updated": 1461006231,
+    "quantity": 66,
+    "value": 101
+  },
+  "Glock-18 | Reactor (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 39,
+    "value": 569
+  },
+  "Glock-18 | Reactor (Field-Tested)": {
+    "last_updated": 1461006231,
+    "quantity": 49,
+    "value": 174
+  },
+  "Glock-18 | Reactor (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 31,
+    "value": 294
+  },
+  "Glock-18 | Reactor (Well-Worn)": {
+    "last_updated": 1461006231,
+    "quantity": 31,
+    "value": 152
+  },
+  "Glock-18 | Royal Legion (Battle-Scarred)": {
+    "last_updated": 1461006231,
+    "quantity": 154,
+    "value": 57
+  },
+  "Glock-18 | Royal Legion (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 58,
+    "value": 315
+  },
+  "Glock-18 | Royal Legion (Field-Tested)": {
+    "last_updated": 1461006231,
+    "quantity": 416,
+    "value": 62
+  },
+  "Glock-18 | Royal Legion (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 251,
+    "value": 115
+  },
+  "Glock-18 | Royal Legion (Well-Worn)": {
+    "last_updated": 1461006231,
+    "quantity": 219,
+    "value": 54
+  },
+  "Glock-18 | Sand Dune (Battle-Scarred)": {
+    "last_updated": 1461006231,
+    "quantity": 26,
+    "value": 175
+  },
+  "Glock-18 | Sand Dune (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 8,
+    "value": 2458
+  },
+  "Glock-18 | Sand Dune (Field-Tested)": {
+    "last_updated": 1461006231,
+    "quantity": 117,
+    "value": 69
+  },
+  "Glock-18 | Sand Dune (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 42,
+    "value": 162
+  },
+  "Glock-18 | Sand Dune (Well-Worn)": {
+    "last_updated": 1461006231,
+    "quantity": 21,
+    "value": 152
+  },
+  "Glock-18 | Steel Disruption (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 117,
+    "value": 129
+  },
+  "Glock-18 | Steel Disruption (Field-Tested)": {
+    "last_updated": 1461006231,
+    "quantity": 47,
+    "value": 123
+  },
+  "Glock-18 | Steel Disruption (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 100,
+    "value": 89
+  },
+  "Glock-18 | Twilight Galaxy (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 41,
+    "value": 2478
+  },
+  "Glock-18 | Twilight Galaxy (Field-Tested)": {
+    "last_updated": 1461006231,
+    "quantity": 5,
+    "value": 1900
+  },
+  "Glock-18 | Twilight Galaxy (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 18,
+    "value": 1868
+  },
+  "Glock-18 | Water Elemental (Battle-Scarred)": {
+    "last_updated": 1461006231,
+    "quantity": 61,
+    "value": 260
+  },
+  "Glock-18 | Water Elemental (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 115,
+    "value": 719
+  },
+  "Glock-18 | Water Elemental (Field-Tested)": {
+    "last_updated": 1461006231,
+    "quantity": 408,
+    "value": 326
+  },
+  "Glock-18 | Water Elemental (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 209,
+    "value": 451
+  },
+  "Glock-18 | Water Elemental (Well-Worn)": {
+    "last_updated": 1461006231,
+    "quantity": 32,
+    "value": 373
+  },
+  "Glock-18 | Wraiths (Battle-Scarred)": {
+    "last_updated": 1461006231,
+    "quantity": 506,
+    "value": 13
+  },
+  "Glock-18 | Wraiths (Factory New)": {
+    "last_updated": 1461006231,
+    "quantity": 317,
+    "value": 41
+  },
+  "Glock-18 | Wraiths (Field-Tested)": {
+    "last_updated": 1461006231,
+    "quantity": 3278,
+    "value": 11
+  },
+  "Glock-18 | Wraiths (Minimal Wear)": {
+    "last_updated": 1461006231,
+    "quantity": 1362,
+    "value": 16
+  },
+  "Glock-18 | Wraiths (Well-Worn)": {
+    "last_updated": 1461006231,
+    "quantity": 142,
+    "value": 28
+  },
+  "P2000 | Amber Fade (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 316,
+    "value": 99
+  },
+  "P2000 | Amber Fade (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 872,
+    "value": 34
+  },
+  "P2000 | Amber Fade (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 666,
+    "value": 46
+  },
+  "P2000 | Amber Fade (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 41,
+    "value": 54
+  },
+  "P2000 | Chainmail (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 119,
+    "value": 330
+  },
+  "P2000 | Chainmail (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 31,
+    "value": 353
+  },
+  "P2000 | Chainmail (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 81,
+    "value": 346
+  },
+  "P2000 | Coach Class (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 46,
+    "value": 85
+  },
+  "P2000 | Coach Class (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 26,
+    "value": 361
+  },
+  "P2000 | Coach Class (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 49,
+    "value": 60
+  },
+  "P2000 | Coach Class (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 34,
+    "value": 187
+  },
+  "P2000 | Coach Class (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 44,
+    "value": 78
+  },
+  "P2000 | Corticera (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 26,
+    "value": 495
+  },
+  "P2000 | Corticera (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 57,
+    "value": 219
+  },
+  "P2000 | Corticera (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 77,
+    "value": 225
+  },
+  "P2000 | Fire Elemental (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 19,
+    "value": 835
+  },
+  "P2000 | Fire Elemental (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 36,
+    "value": 1634
+  },
+  "P2000 | Fire Elemental (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 83,
+    "value": 833
+  },
+  "P2000 | Fire Elemental (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 40,
+    "value": 1121
+  },
+  "P2000 | Fire Elemental (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 14,
+    "value": 919
+  },
+  "P2000 | Granite Marbleized (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 1285,
+    "value": 6
+  },
+  "P2000 | Granite Marbleized (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 153,
+    "value": 42
+  },
+  "P2000 | Granite Marbleized (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 5718,
+    "value": 6
+  },
+  "P2000 | Granite Marbleized (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 1256,
+    "value": 7
+  },
+  "P2000 | Granite Marbleized (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 992,
+    "value": 7
+  },
+  "P2000 | Grassland (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 106,
+    "value": 18
+  },
+  "P2000 | Grassland (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 27,
+    "value": 247
+  },
+  "P2000 | Grassland (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 316,
+    "value": 21
+  },
+  "P2000 | Grassland (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 111,
+    "value": 31
+  },
+  "P2000 | Grassland (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 161,
+    "value": 20
+  },
+  "P2000 | Grassland Leaves (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 48,
+    "value": 135
+  },
+  "P2000 | Grassland Leaves (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 7,
+    "value": 2085
+  },
+  "P2000 | Grassland Leaves (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 88,
+    "value": 97
+  },
+  "P2000 | Grassland Leaves (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 22,
+    "value": 239
+  },
+  "P2000 | Grassland Leaves (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 54,
+    "value": 281
+  },
+  "P2000 | Handgun (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 437,
+    "value": 31
+  },
+  "P2000 | Handgun (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 84,
+    "value": 208
+  },
+  "P2000 | Handgun (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 1145,
+    "value": 31
+  },
+  "P2000 | Handgun (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 464,
+    "value": 49
+  },
+  "P2000 | Handgun (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 422,
+    "value": 30
+  },
+  "P2000 | Imperial (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 1632,
+    "value": 35
+  },
+  "P2000 | Imperial (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 467,
+    "value": 18
+  },
+  "P2000 | Imperial (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 1564,
+    "value": 20
+  },
+  "P2000 | Ivory (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 1249,
+    "value": 10
+  },
+  "P2000 | Ivory (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 250,
+    "value": 21
+  },
+  "P2000 | Ivory (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 2986,
+    "value": 10
+  },
+  "P2000 | Ivory (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 2033,
+    "value": 11
+  },
+  "P2000 | Ivory (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 2025,
+    "value": 11
+  },
+  "P2000 | Ocean Foam (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 53,
+    "value": 3860
+  },
+  "P2000 | Ocean Foam (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 6,
+    "value": 4349
+  },
+  "P2000 | Pathfinder (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 123,
+    "value": 77
+  },
+  "P2000 | Pathfinder (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 124,
+    "value": 72
+  },
+  "P2000 | Pathfinder (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 162,
+    "value": 71
+  },
+  "P2000 | Pulse (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 225,
+    "value": 18
+  },
+  "P2000 | Pulse (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 227,
+    "value": 38
+  },
+  "P2000 | Pulse (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 1578,
+    "value": 17
+  },
+  "P2000 | Pulse (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 460,
+    "value": 21
+  },
+  "P2000 | Pulse (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 101,
+    "value": 51
+  },
+  "P2000 | Red FragCam (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 68,
+    "value": 55
+  },
+  "P2000 | Red FragCam (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 112,
+    "value": 76
+  },
+  "P2000 | Red FragCam (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 250,
+    "value": 19
+  },
+  "P2000 | Red FragCam (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 190,
+    "value": 28
+  },
+  "P2000 | Red FragCam (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 43,
+    "value": 174
+  },
+  "P2000 | Scorpion (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 90,
+    "value": 200
+  },
+  "P2000 | Scorpion (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 14,
+    "value": 787
+  },
+  "P2000 | Silver (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 95,
+    "value": 128
+  },
+  "P2000 | Silver (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 7,
+    "value": 698
+  },
+  "P250 | Bone Mask (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 139,
+    "value": 18
+  },
+  "P250 | Bone Mask (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 12,
+    "value": 648
+  },
+  "P250 | Bone Mask (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 258,
+    "value": 12
+  },
+  "P250 | Bone Mask (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 91,
+    "value": 20
+  },
+  "P250 | Bone Mask (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 167,
+    "value": 24
+  },
+  "P250 | Boreal Forest (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 8462,
+    "value": 4
+  },
+  "P250 | Boreal Forest (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 186,
+    "value": 23
+  },
+  "P250 | Boreal Forest (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 41288,
+    "value": 4
+  },
+  "P250 | Boreal Forest (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 6173,
+    "value": 5
+  },
+  "P250 | Boreal Forest (Well-Worn)": {
+    "last_updated": 1461006401,
+    "quantity": 7425,
+    "value": 4
+  },
+  "P250 | Cartel (Battle-Scarred)": {
+    "last_updated": 1461006401,
+    "quantity": 19,
+    "value": 231
+  },
+  "P250 | Cartel (Factory New)": {
+    "last_updated": 1461006401,
+    "quantity": 29,
+    "value": 669
+  },
+  "P250 | Cartel (Field-Tested)": {
+    "last_updated": 1461006401,
+    "quantity": 93,
+    "value": 210
+  },
+  "P250 | Cartel (Minimal Wear)": {
+    "last_updated": 1461006401,
+    "quantity": 86,
+    "value": 268
+  },
+  "P250 | Cartel (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 14,
+    "value": 340
+  },
+  "P250 | Contamination (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 126,
+    "value": 14
+  },
+  "P250 | Contamination (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 86,
+    "value": 66
+  },
+  "P250 | Contamination (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 365,
+    "value": 16
+  },
+  "P250 | Contamination (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 123,
+    "value": 28
+  },
+  "P250 | Contamination (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 78,
+    "value": 38
+  },
+  "P250 | Crimson Kimono (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 176,
+    "value": 19
+  },
+  "P250 | Crimson Kimono (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 284,
+    "value": 99
+  },
+  "P250 | Crimson Kimono (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 243,
+    "value": 20
+  },
+  "P250 | Crimson Kimono (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 146,
+    "value": 42
+  },
+  "P250 | Crimson Kimono (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 72,
+    "value": 27
+  },
+  "P250 | Facets (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 37,
+    "value": 283
+  },
+  "P250 | Facets (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 8,
+    "value": 1464
+  },
+  "P250 | Facets (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 65,
+    "value": 66
+  },
+  "P250 | Facets (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 34,
+    "value": 123
+  },
+  "P250 | Facets (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 37,
+    "value": 88
+  },
+  "P250 | Franklin (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 311,
+    "value": 144
+  },
+  "P250 | Franklin (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 961,
+    "value": 80
+  },
+  "P250 | Franklin (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 272,
+    "value": 107
+  },
+  "P250 | Franklin (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 67,
+    "value": 140
+  },
+  "P250 | Gunsmoke (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 89,
+    "value": 35
+  },
+  "P250 | Gunsmoke (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 22,
+    "value": 1460
+  },
+  "P250 | Gunsmoke (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 159,
+    "value": 17
+  },
+  "P250 | Gunsmoke (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 55,
+    "value": 108
+  },
+  "P250 | Gunsmoke (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 96,
+    "value": 37
+  },
+  "P250 | Hive (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 223,
+    "value": 130
+  },
+  "P250 | Hive (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 77,
+    "value": 95
+  },
+  "P250 | Hive (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 213,
+    "value": 98
+  },
+  "P250 | Mehndi (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 17,
+    "value": 451
+  },
+  "P250 | Mehndi (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 26,
+    "value": 1024
+  },
+  "P250 | Mehndi (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 54,
+    "value": 476
+  },
+  "P250 | Mehndi (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 52,
+    "value": 570
+  },
+  "P250 | Mehndi (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 29,
+    "value": 491
+  },
+  "P250 | Metallic DDPAT (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 4235,
+    "value": 8
+  },
+  "P250 | Metallic DDPAT (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 174,
+    "value": 13
+  },
+  "P250 | Mint Kimono (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 903,
+    "value": 6
+  },
+  "P250 | Mint Kimono (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 229,
+    "value": 31
+  },
+  "P250 | Mint Kimono (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 2857,
+    "value": 7
+  },
+  "P250 | Mint Kimono (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 633,
+    "value": 16
+  },
+  "P250 | Mint Kimono (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 125,
+    "value": 10
+  },
+  "P250 | Modern Hunter (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 11,
+    "value": 586
+  },
+  "P250 | Modern Hunter (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 32,
+    "value": 290
+  },
+  "P250 | Modern Hunter (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 26,
+    "value": 878
+  },
+  "P250 | Modern Hunter (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 13,
+    "value": 1689
+  },
+  "P250 | Muertos (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 35,
+    "value": 213
+  },
+  "P250 | Muertos (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 94,
+    "value": 348
+  },
+  "P250 | Muertos (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 117,
+    "value": 202
+  },
+  "P250 | Muertos (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 139,
+    "value": 227
+  },
+  "P250 | Muertos (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 27,
+    "value": 229
+  },
+  "P250 | Nuclear Threat (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 19,
+    "value": 428
+  },
+  "P250 | Nuclear Threat (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 35,
+    "value": 674
+  },
+  "P250 | Nuclear Threat (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 12,
+    "value": 3808
+  },
+  "P250 | Nuclear Threat (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 26,
+    "value": 538
+  },
+  "P250 | Sand Dune (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 1876,
+    "value": 6
+  },
+  "P250 | Sand Dune (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 194,
+    "value": 41
+  },
+  "P250 | Sand Dune (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 22815,
+    "value": 5
+  },
+  "P250 | Sand Dune (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 3560,
+    "value": 6
+  },
+  "P250 | Sand Dune (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 2489,
+    "value": 5
+  },
+  "P250 | Splash (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 22,
+    "value": 1350
+  },
+  "P250 | Splash (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 27,
+    "value": 438
+  },
+  "P250 | Splash (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 135,
+    "value": 396
+  },
+  "P250 | Steel Disruption (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 302,
+    "value": 32
+  },
+  "P250 | Steel Disruption (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 83,
+    "value": 37
+  },
+  "P250 | Steel Disruption (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 137,
+    "value": 30
+  },
+  "P250 | Supernova (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 583,
+    "value": 50
+  },
+  "P250 | Supernova (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 663,
+    "value": 31
+  },
+  "P250 | Supernova (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 813,
+    "value": 36
+  },
+  "P250 | Supernova (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 76,
+    "value": 55
+  },
+  "P250 | Undertow (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 104,
+    "value": 451
+  },
+  "P250 | Undertow (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 27,
+    "value": 333
+  },
+  "P250 | Undertow (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 42,
+    "value": 399
+  },
+  "P250 | Valence (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 1448,
+    "value": 10
+  },
+  "P250 | Valence (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 515,
+    "value": 31
+  },
+  "P250 | Valence (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 5636,
+    "value": 10
+  },
+  "P250 | Valence (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 1985,
+    "value": 14
+  },
+  "P250 | Valence (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 199,
+    "value": 15
+  },
+  "P250 | Whiteout (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 38,
+    "value": 78
+  },
+  "P250 | Whiteout (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 12,
+    "value": 10136
+  },
+  "P250 | Whiteout (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 118,
+    "value": 88
+  },
+  "P250 | Whiteout (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 91,
+    "value": 686
+  },
+  "P250 | Whiteout (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 46,
+    "value": 117
+  },
+  "P250 | Wingshot (Battle-Scarred)": {
+    "last_updated": 1461006455,
+    "quantity": 282,
+    "value": 50
+  },
+  "P250 | Wingshot (Factory New)": {
+    "last_updated": 1461006455,
+    "quantity": 103,
+    "value": 200
+  },
+  "P250 | Wingshot (Field-Tested)": {
+    "last_updated": 1461006455,
+    "quantity": 1118,
+    "value": 54
+  },
+  "P250 | Wingshot (Minimal Wear)": {
+    "last_updated": 1461006455,
+    "quantity": 438,
+    "value": 86
+  },
+  "P250 | Wingshot (Well-Worn)": {
+    "last_updated": 1461006455,
+    "quantity": 199,
+    "value": 56
+  },
+  "R8 Revolver | Amber Fade (Factory New)": {
+    "last_updated": 1461006502,
+    "quantity": 380,
+    "value": 164
+  },
+  "R8 Revolver | Amber Fade (Field-Tested)": {
+    "last_updated": 1461006502,
+    "quantity": 488,
+    "value": 86
+  },
+  "R8 Revolver | Amber Fade (Minimal Wear)": {
+    "last_updated": 1461006502,
+    "quantity": 339,
+    "value": 107
+  },
+  "R8 Revolver | Amber Fade (Well-Worn)": {
+    "last_updated": 1461006502,
+    "quantity": 43,
+    "value": 147
+  },
+  "R8 Revolver | Bone Mask (Battle-Scarred)": {
+    "last_updated": 1461006502,
+    "quantity": 5747,
+    "value": 4
+  },
+  "R8 Revolver | Bone Mask (Factory New)": {
+    "last_updated": 1461006502,
+    "quantity": 231,
+    "value": 31
+  },
+  "R8 Revolver | Bone Mask (Field-Tested)": {
+    "last_updated": 1461006502,
+    "quantity": 22034,
+    "value": 4
+  },
+  "R8 Revolver | Bone Mask (Minimal Wear)": {
+    "last_updated": 1461006502,
+    "quantity": 7303,
+    "value": 5
+  },
+  "R8 Revolver | Bone Mask (Well-Worn)": {
+    "last_updated": 1461006502,
+    "quantity": 2326,
+    "value": 4
+  },
+  "R8 Revolver | Crimson Web (Battle-Scarred)": {
+    "last_updated": 1461006502,
+    "quantity": 1415,
+    "value": 11
+  },
+  "R8 Revolver | Crimson Web (Factory New)": {
+    "last_updated": 1461006502,
+    "quantity": 82,
+    "value": 291
+  },
+  "R8 Revolver | Crimson Web (Field-Tested)": {
+    "last_updated": 1461006502,
+    "quantity": 5117,
+    "value": 11
+  },
+  "R8 Revolver | Crimson Web (Minimal Wear)": {
+    "last_updated": 1461006502,
+    "quantity": 1468,
+    "value": 30
+  },
+  "R8 Revolver | Crimson Web (Well-Worn)": {
+    "last_updated": 1461006502,
+    "quantity": 1035,
+    "value": 14
+  },
+  "R8 Revolver | Fade (Factory New)": {
+    "last_updated": 1461006502,
+    "quantity": 99,
+    "value": 974
+  },
+  "R8 Revolver | Fade (Field-Tested)": {
+    "last_updated": 1461006502,
+    "quantity": 133,
+    "value": 315
+  },
+  "R8 Revolver | Fade (Minimal Wear)": {
+    "last_updated": 1461006502,
+    "quantity": 144,
+    "value": 468
+  },
+  "R8 Revolver | Fade (Well-Worn)": {
+    "last_updated": 1461006502,
+    "quantity": 27,
+    "value": 540
+  },
+  "USP-S | Blood Tiger (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 167,
+    "value": 78
+  },
+  "USP-S | Blood Tiger (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 90,
+    "value": 36
+  },
+  "USP-S | Blood Tiger (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 343,
+    "value": 43
+  },
+  "USP-S | Business Class (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 21,
+    "value": 902
+  },
+  "USP-S | Business Class (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 20,
+    "value": 1925
+  },
+  "USP-S | Business Class (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 19,
+    "value": 334
+  },
+  "USP-S | Business Class (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 28,
+    "value": 595
+  },
+  "USP-S | Business Class (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 18,
+    "value": 405
+  },
+  "USP-S | Caiman (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 94,
+    "value": 676
+  },
+  "USP-S | Caiman (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 64,
+    "value": 437
+  },
+  "USP-S | Caiman (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 118,
+    "value": 503
+  },
+  "USP-S | Caiman (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 18,
+    "value": 417
+  },
+  "USP-S | Dark Water (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 53,
+    "value": 632
+  },
+  "USP-S | Dark Water (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 96,
+    "value": 715
+  },
+  "USP-S | Forest Leaves (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 1291,
+    "value": 9
+  },
+  "USP-S | Forest Leaves (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 101,
+    "value": 81
+  },
+  "USP-S | Forest Leaves (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 6838,
+    "value": 6
+  },
+  "USP-S | Forest Leaves (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 1007,
+    "value": 12
+  },
+  "USP-S | Forest Leaves (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 641,
+    "value": 8
+  },
+  "USP-S | Guardian (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 626,
+    "value": 107
+  },
+  "USP-S | Guardian (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 524,
+    "value": 59
+  },
+  "USP-S | Guardian (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 827,
+    "value": 76
+  },
+  "USP-S | Kill Confirmed (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 54,
+    "value": 1950
+  },
+  "USP-S | Kill Confirmed (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 27,
+    "value": 5827
+  },
+  "USP-S | Kill Confirmed (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 63,
+    "value": 2433
+  },
+  "USP-S | Kill Confirmed (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 42,
+    "value": 3350
+  },
+  "USP-S | Kill Confirmed (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 44,
+    "value": 2175
+  },
+  "USP-S | Lead Conduit (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 903,
+    "value": 14
+  },
+  "USP-S | Lead Conduit (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 137,
+    "value": 118
+  },
+  "USP-S | Lead Conduit (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 2546,
+    "value": 16
+  },
+  "USP-S | Lead Conduit (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 1175,
+    "value": 31
+  },
+  "USP-S | Lead Conduit (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 1180,
+    "value": 14
+  },
+  "USP-S | Night Ops (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 200,
+    "value": 16
+  },
+  "USP-S | Night Ops (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 373,
+    "value": 38
+  },
+  "USP-S | Night Ops (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 726,
+    "value": 13
+  },
+  "USP-S | Night Ops (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 478,
+    "value": 17
+  },
+  "USP-S | Night Ops (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 195,
+    "value": 21
+  },
+  "USP-S | Orion (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 6,
+    "value": 2889
+  },
+  "USP-S | Orion (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 118,
+    "value": 1162
+  },
+  "USP-S | Orion (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 42,
+    "value": 833
+  },
+  "USP-S | Orion (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 122,
+    "value": 916
+  },
+  "USP-S | Orion (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 10,
+    "value": 1283
+  },
+  "USP-S | Overgrowth (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 22,
+    "value": 426
+  },
+  "USP-S | Overgrowth (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 8,
+    "value": 3946
+  },
+  "USP-S | Overgrowth (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 114,
+    "value": 428
+  },
+  "USP-S | Overgrowth (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 54,
+    "value": 706
+  },
+  "USP-S | Overgrowth (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 30,
+    "value": 450
+  },
+  "USP-S | Para Green (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 150,
+    "value": 23
+  },
+  "USP-S | Para Green (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 112,
+    "value": 190
+  },
+  "USP-S | Para Green (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 318,
+    "value": 23
+  },
+  "USP-S | Para Green (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 185,
+    "value": 46
+  },
+  "USP-S | Para Green (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 61,
+    "value": 41
+  },
+  "USP-S | Road Rash (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 31,
+    "value": 795
+  },
+  "USP-S | Road Rash (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 33,
+    "value": 2291
+  },
+  "USP-S | Road Rash (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 58,
+    "value": 981
+  },
+  "USP-S | Road Rash (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 23,
+    "value": 1464
+  },
+  "USP-S | Road Rash (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 17,
+    "value": 905
+  },
+  "USP-S | Royal Blue (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 130,
+    "value": 31
+  },
+  "USP-S | Royal Blue (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 17,
+    "value": 1830
+  },
+  "USP-S | Royal Blue (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 591,
+    "value": 47
+  },
+  "USP-S | Royal Blue (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 83,
+    "value": 224
+  },
+  "USP-S | Royal Blue (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 94,
+    "value": 76
+  },
+  "USP-S | Serum (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 71,
+    "value": 753
+  },
+  "USP-S | Serum (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 24,
+    "value": 628
+  },
+  "USP-S | Serum (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 76,
+    "value": 644
+  },
+  "USP-S | Stainless (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 93,
+    "value": 105
+  },
+  "USP-S | Stainless (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 74,
+    "value": 523
+  },
+  "USP-S | Stainless (Field-Tested)": {
+    "last_updated": 1461004906,
+    "quantity": 183,
+    "value": 112
+  },
+  "USP-S | Stainless (Minimal Wear)": {
+    "last_updated": 1461004906,
+    "quantity": 81,
+    "value": 200
+  },
+  "USP-S | Stainless (Well-Worn)": {
+    "last_updated": 1461004906,
+    "quantity": 31,
+    "value": 208
+  },
+  "USP-S | Torque (Battle-Scarred)": {
+    "last_updated": 1461004906,
+    "quantity": 141,
+    "value": 35
+  },
+  "USP-S | Torque (Factory New)": {
+    "last_updated": 1461004906,
+    "quantity": 1489,
+    "value": 52
+  },
+  "USP-S | Torque (Field-Tested)": {
+    "last_updated": 1461005000,
+    "quantity": 4873,
+    "value": 19
+  },
+  "USP-S | Torque (Minimal Wear)": {
+    "last_updated": 1461005000,
+    "quantity": 1572,
+    "value": 35
+  },
+  "USP-S | Torque (Well-Worn)": {
+    "last_updated": 1461005000,
+    "quantity": 315,
+    "value": 27
+  },
+  "StatTrak\u2122 CZ75-Auto | Crimson Web (Battle-Scarred)": {
+    "last_updated": 1461006671,
+    "quantity": 77,
+    "value": 98
+  },
+  "StatTrak\u2122 CZ75-Auto | Crimson Web (Factory New)": {
+    "last_updated": 1461006671,
+    "quantity": 4,
+    "value": 9573
+  },
+  "StatTrak\u2122 CZ75-Auto | Crimson Web (Field-Tested)": {
+    "last_updated": 1461006671,
+    "quantity": 97,
+    "value": 100
+  },
+  "StatTrak\u2122 CZ75-Auto | Crimson Web (Minimal Wear)": {
+    "last_updated": 1461006671,
+    "quantity": 55,
+    "value": 451
+  },
+  "StatTrak\u2122 CZ75-Auto | Crimson Web (Well-Worn)": {
+    "last_updated": 1461006671,
+    "quantity": 41,
+    "value": 119
+  },
+  "StatTrak\u2122 CZ75-Auto | Hexane (Factory New)": {
+    "last_updated": 1461006671,
+    "quantity": 83,
+    "value": 413
+  },
+  "StatTrak\u2122 CZ75-Auto | Hexane (Field-Tested)": {
+    "last_updated": 1461006671,
+    "quantity": 88,
+    "value": 65
+  },
+  "StatTrak\u2122 CZ75-Auto | Hexane (Minimal Wear)": {
+    "last_updated": 1461006671,
+    "quantity": 37,
+    "value": 119
+  },
+  "StatTrak\u2122 CZ75-Auto | Hexane (Well-Worn)": {
+    "last_updated": 1461006671,
+    "quantity": 21,
+    "value": 98
+  },
+  "StatTrak\u2122 CZ75-Auto | Poison Dart (Battle-Scarred)": {
+    "last_updated": 1461006671,
+    "quantity": 52,
+    "value": 84
+  },
+  "StatTrak\u2122 CZ75-Auto | Poison Dart (Factory New)": {
+    "last_updated": 1461006671,
+    "quantity": 42,
+    "value": 910
+  },
+  "StatTrak\u2122 CZ75-Auto | Poison Dart (Field-Tested)": {
+    "last_updated": 1461006671,
+    "quantity": 130,
+    "value": 124
+  },
+  "StatTrak\u2122 CZ75-Auto | Poison Dart (Minimal Wear)": {
+    "last_updated": 1461006671,
+    "quantity": 33,
+    "value": 350
+  },
+  "StatTrak\u2122 CZ75-Auto | Poison Dart (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 19,
+    "value": 225
+  },
+  "StatTrak\u2122 CZ75-Auto | Pole Position (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 75,
+    "value": 84
+  },
+  "StatTrak\u2122 CZ75-Auto | Pole Position (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 69,
+    "value": 291
+  },
+  "StatTrak\u2122 CZ75-Auto | Pole Position (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 223,
+    "value": 80
+  },
+  "StatTrak\u2122 CZ75-Auto | Pole Position (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 89,
+    "value": 157
+  },
+  "StatTrak\u2122 CZ75-Auto | Pole Position (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 36,
+    "value": 104
+  },
+  "StatTrak\u2122 CZ75-Auto | The Fuschia Is Now (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 15,
+    "value": 3399
+  },
+  "StatTrak\u2122 CZ75-Auto | The Fuschia Is Now (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 9,
+    "value": 1234
+  },
+  "StatTrak\u2122 CZ75-Auto | The Fuschia Is Now (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 14,
+    "value": 1599
+  },
+  "StatTrak\u2122 CZ75-Auto | The Fuschia Is Now (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 2,
+    "value": 5068
+  },
+  "StatTrak\u2122 CZ75-Auto | Tigris (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 123,
+    "value": 97
+  },
+  "StatTrak\u2122 CZ75-Auto | Tigris (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 42,
+    "value": 618
+  },
+  "StatTrak\u2122 CZ75-Auto | Tigris (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 130,
+    "value": 112
+  },
+  "StatTrak\u2122 CZ75-Auto | Tigris (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 123,
+    "value": 185
+  },
+  "StatTrak\u2122 CZ75-Auto | Tigris (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 110,
+    "value": 97
+  },
+  "StatTrak\u2122 CZ75-Auto | Tread Plate (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 37,
+    "value": 416
+  },
+  "StatTrak\u2122 CZ75-Auto | Tread Plate (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 19,
+    "value": 300
+  },
+  "StatTrak\u2122 CZ75-Auto | Tread Plate (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 38,
+    "value": 333
+  },
+  "StatTrak\u2122 CZ75-Auto | Twist (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 145,
+    "value": 35
+  },
+  "StatTrak\u2122 CZ75-Auto | Twist (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 41,
+    "value": 234
+  },
+  "StatTrak\u2122 CZ75-Auto | Twist (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 143,
+    "value": 40
+  },
+  "StatTrak\u2122 CZ75-Auto | Twist (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 90,
+    "value": 63
+  },
+  "StatTrak\u2122 CZ75-Auto | Twist (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 124,
+    "value": 39
+  },
+  "StatTrak\u2122 CZ75-Auto | Victoria (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 7,
+    "value": 2976
+  },
+  "StatTrak\u2122 CZ75-Auto | Victoria (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 4,
+    "value": 22288
+  },
+  "StatTrak\u2122 CZ75-Auto | Victoria (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 14,
+    "value": 3162
+  },
+  "StatTrak\u2122 CZ75-Auto | Victoria (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 7,
+    "value": 5969
+  },
+  "StatTrak\u2122 CZ75-Auto | Yellow Jacket (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 27,
+    "value": 587
+  },
+  "StatTrak\u2122 CZ75-Auto | Yellow Jacket (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 4,
+    "value": 2686
+  },
+  "StatTrak\u2122 CZ75-Auto | Yellow Jacket (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 37,
+    "value": 716
+  },
+  "StatTrak\u2122 CZ75-Auto | Yellow Jacket (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 19,
+    "value": 1295
+  },
+  "StatTrak\u2122 CZ75-Auto | Yellow Jacket (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 38,
+    "value": 564
+  },
+  "StatTrak\u2122 Desert Eagle | Bronze Deco (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 37,
+    "value": 115
+  },
+  "StatTrak\u2122 Desert Eagle | Bronze Deco (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 405,
+    "value": 117
+  },
+  "StatTrak\u2122 Desert Eagle | Bronze Deco (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 896,
+    "value": 50
+  },
+  "StatTrak\u2122 Desert Eagle | Bronze Deco (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 356,
+    "value": 77
+  },
+  "StatTrak\u2122 Desert Eagle | Bronze Deco (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 177,
+    "value": 64
+  },
+  "StatTrak\u2122 Desert Eagle | Cobalt Disruption (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 29,
+    "value": 3204
+  },
+  "StatTrak\u2122 Desert Eagle | Cobalt Disruption (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 9,
+    "value": 1971
+  },
+  "StatTrak\u2122 Desert Eagle | Cobalt Disruption (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 8,
+    "value": 2478
+  },
+  "StatTrak\u2122 Desert Eagle | Conspiracy (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 57,
+    "value": 1522
+  },
+  "StatTrak\u2122 Desert Eagle | Conspiracy (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 36,
+    "value": 788
+  },
+  "StatTrak\u2122 Desert Eagle | Conspiracy (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 61,
+    "value": 969
+  },
+  "StatTrak\u2122 Desert Eagle | Corinthian (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 118,
+    "value": 338
+  },
+  "StatTrak\u2122 Desert Eagle | Corinthian (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 140,
+    "value": 176
+  },
+  "StatTrak\u2122 Desert Eagle | Corinthian (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 85,
+    "value": 249
+  },
+  "StatTrak\u2122 Desert Eagle | Corinthian (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 32,
+    "value": 242
+  },
+  "StatTrak\u2122 Desert Eagle | Crimson Web (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 36,
+    "value": 348
+  },
+  "StatTrak\u2122 Desert Eagle | Crimson Web (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 2,
+    "value": 40771
+  },
+  "StatTrak\u2122 Desert Eagle | Crimson Web (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 64,
+    "value": 426
+  },
+  "StatTrak\u2122 Desert Eagle | Crimson Web (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 27,
+    "value": 2339
+  },
+  "StatTrak\u2122 Desert Eagle | Crimson Web (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 16,
+    "value": 569
+  },
+  "StatTrak\u2122 Desert Eagle | Golden Koi (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 3,
+    "value": 13987
+  },
+  "StatTrak\u2122 Desert Eagle | Golden Koi (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 3,
+    "value": 13497
+  },
+  "StatTrak\u2122 Desert Eagle | Heirloom (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 18,
+    "value": 570
+  },
+  "StatTrak\u2122 Desert Eagle | Heirloom (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 3,
+    "value": 5996
+  },
+  "StatTrak\u2122 Desert Eagle | Heirloom (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 59,
+    "value": 501
+  },
+  "StatTrak\u2122 Desert Eagle | Heirloom (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 14,
+    "value": 897
+  },
+  "StatTrak\u2122 Desert Eagle | Heirloom (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 6,
+    "value": 1122
+  },
+  "StatTrak\u2122 Desert Eagle | Hypnotic (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 23,
+    "value": 3167
+  },
+  "StatTrak\u2122 Desert Eagle | Hypnotic (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 8,
+    "value": 8310
+  },
+  "StatTrak\u2122 Desert Eagle | Kumicho Dragon (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 18,
+    "value": 1857
+  },
+  "StatTrak\u2122 Desert Eagle | Kumicho Dragon (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 10,
+    "value": 6644
+  },
+  "StatTrak\u2122 Desert Eagle | Kumicho Dragon (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 26,
+    "value": 2331
+  },
+  "StatTrak\u2122 Desert Eagle | Kumicho Dragon (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 23,
+    "value": 3435
+  },
+  "StatTrak\u2122 Desert Eagle | Kumicho Dragon (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 3,
+    "value": 2859
+  },
+  "StatTrak\u2122 Desert Eagle | Naga (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 74,
+    "value": 179
+  },
+  "StatTrak\u2122 Desert Eagle | Naga (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 20,
+    "value": 900
+  },
+  "StatTrak\u2122 Desert Eagle | Naga (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 100,
+    "value": 174
+  },
+  "StatTrak\u2122 Desert Eagle | Naga (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 68,
+    "value": 301
+  },
+  "StatTrak\u2122 Desert Eagle | Naga (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 78,
+    "value": 174
+  },
+  "StatTrak\u2122 Dual Berettas | Black Limba (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 22,
+    "value": 170
+  },
+  "StatTrak\u2122 Dual Berettas | Black Limba (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 6,
+    "value": 3999
+  },
+  "StatTrak\u2122 Dual Berettas | Black Limba (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 87,
+    "value": 162
+  },
+  "StatTrak\u2122 Dual Berettas | Black Limba (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 24,
+    "value": 266
+  },
+  "StatTrak\u2122 Dual Berettas | Black Limba (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 30,
+    "value": 206
+  },
+  "StatTrak\u2122 Dual Berettas | Cartel (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 129,
+    "value": 31
+  },
+  "StatTrak\u2122 Dual Berettas | Cartel (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 37,
+    "value": 229
+  },
+  "StatTrak\u2122 Dual Berettas | Cartel (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 125,
+    "value": 31
+  },
+  "StatTrak\u2122 Dual Berettas | Cartel (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 90,
+    "value": 52
+  },
+  "StatTrak\u2122 Dual Berettas | Cartel (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 117,
+    "value": 30
+  },
+  "StatTrak\u2122 Dual Berettas | Dualing Dragons (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 284,
+    "value": 36
+  },
+  "StatTrak\u2122 Dual Berettas | Dualing Dragons (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 39,
+    "value": 468
+  },
+  "StatTrak\u2122 Dual Berettas | Dualing Dragons (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 334,
+    "value": 39
+  },
+  "StatTrak\u2122 Dual Berettas | Dualing Dragons (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 215,
+    "value": 84
+  },
+  "StatTrak\u2122 Dual Berettas | Dualing Dragons (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 351,
+    "value": 37
+  },
+  "StatTrak\u2122 Dual Berettas | Hemoglobin (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 51,
+    "value": 490
+  },
+  "StatTrak\u2122 Dual Berettas | Hemoglobin (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 10,
+    "value": 518
+  },
+  "StatTrak\u2122 Dual Berettas | Hemoglobin (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 35,
+    "value": 400
+  },
+  "StatTrak\u2122 Dual Berettas | Marina (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 4,
+    "value": 788
+  },
+  "StatTrak\u2122 Dual Berettas | Marina (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 12,
+    "value": 2548
+  },
+  "StatTrak\u2122 Dual Berettas | Marina (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 95,
+    "value": 288
+  },
+  "StatTrak\u2122 Dual Berettas | Marina (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 72,
+    "value": 383
+  },
+  "StatTrak\u2122 Dual Berettas | Marina (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 30,
+    "value": 283
+  },
+  "StatTrak\u2122 Dual Berettas | Panther (Battle-Scarred)": {
+    "last_updated": 1461006684,
+    "quantity": 48,
+    "value": 101
+  },
+  "StatTrak\u2122 Dual Berettas | Panther (Factory New)": {
+    "last_updated": 1461006684,
+    "quantity": 39,
+    "value": 565
+  },
+  "StatTrak\u2122 Dual Berettas | Panther (Field-Tested)": {
+    "last_updated": 1461006684,
+    "quantity": 158,
+    "value": 80
+  },
+  "StatTrak\u2122 Dual Berettas | Panther (Minimal Wear)": {
+    "last_updated": 1461006684,
+    "quantity": 58,
+    "value": 216
+  },
+  "StatTrak\u2122 Dual Berettas | Panther (Well-Worn)": {
+    "last_updated": 1461006684,
+    "quantity": 27,
+    "value": 157
+  },
+  "StatTrak\u2122 Dual Berettas | Retribution (Factory New)": {
+    "last_updated": 1461006718,
+    "quantity": 52,
+    "value": 265
+  },
+  "StatTrak\u2122 Dual Berettas | Retribution (Field-Tested)": {
+    "last_updated": 1461006718,
+    "quantity": 78,
+    "value": 72
+  },
+  "StatTrak\u2122 Dual Berettas | Retribution (Minimal Wear)": {
+    "last_updated": 1461006718,
+    "quantity": 41,
+    "value": 114
+  },
+  "StatTrak\u2122 Dual Berettas | Retribution (Well-Worn)": {
+    "last_updated": 1461006718,
+    "quantity": 7,
+    "value": 1239
+  },
+  "StatTrak\u2122 Dual Berettas | Urban Shock (Battle-Scarred)": {
+    "last_updated": 1461006718,
+    "quantity": 11,
+    "value": 595
+  },
+  "StatTrak\u2122 Dual Berettas | Urban Shock (Factory New)": {
+    "last_updated": 1461006718,
+    "quantity": 55,
+    "value": 303
+  },
+  "StatTrak\u2122 Dual Berettas | Urban Shock (Field-Tested)": {
+    "last_updated": 1461006718,
+    "quantity": 131,
+    "value": 121
+  },
+  "StatTrak\u2122 Dual Berettas | Urban Shock (Minimal Wear)": {
+    "last_updated": 1461006718,
+    "quantity": 102,
+    "value": 197
+  },
+  "StatTrak\u2122 Dual Berettas | Urban Shock (Well-Worn)": {
+    "last_updated": 1461006718,
+    "quantity": 37,
+    "value": 139
+  },
+  "StatTrak\u2122 Five-SeveN | Case Hardened (Battle-Scarred)": {
+    "last_updated": 1461006718,
+    "quantity": 20,
+    "value": 1105
+  },
+  "StatTrak\u2122 Five-SeveN | Case Hardened (Factory New)": {
+    "last_updated": 1461006718,
+    "quantity": 13,
+    "value": 7568
+  },
+  "StatTrak\u2122 Five-SeveN | Case Hardened (Field-Tested)": {
+    "last_updated": 1461006718,
+    "quantity": 55,
+    "value": 1610
+  },
+  "StatTrak\u2122 Five-SeveN | Case Hardened (Minimal Wear)": {
+    "last_updated": 1461006718,
+    "quantity": 50,
+    "value": 2456
+  },
+  "StatTrak\u2122 Five-SeveN | Case Hardened (Well-Worn)": {
+    "last_updated": 1461006718,
+    "quantity": 50,
+    "value": 1127
+  },
+  "StatTrak\u2122 Five-SeveN | Copper Galaxy (Factory New)": {
+    "last_updated": 1461006718,
+    "quantity": 33,
+    "value": 1351
+  },
+  "StatTrak\u2122 Five-SeveN | Copper Galaxy (Field-Tested)": {
+    "last_updated": 1461006718,
+    "quantity": 17,
+    "value": 621
+  },
+  "StatTrak\u2122 Five-SeveN | Copper Galaxy (Minimal Wear)": {
+    "last_updated": 1461006718,
+    "quantity": 28,
+    "value": 839
+  },
+  "StatTrak\u2122 Five-SeveN | Fowl Play (Battle-Scarred)": {
+    "last_updated": 1461006718,
+    "quantity": 29,
+    "value": 361
+  },
+  "StatTrak\u2122 Five-SeveN | Fowl Play (Factory New)": {
+    "last_updated": 1461006718,
+    "quantity": 12,
+    "value": 1464
+  },
+  "StatTrak\u2122 Five-SeveN | Fowl Play (Field-Tested)": {
+    "last_updated": 1461006718,
+    "quantity": 37,
+    "value": 419
+  },
+  "StatTrak\u2122 Five-SeveN | Fowl Play (Minimal Wear)": {
+    "last_updated": 1461006718,
+    "quantity": 45,
+    "value": 680
+  },
+  "StatTrak\u2122 Five-SeveN | Fowl Play (Well-Worn)": {
+    "last_updated": 1461006718,
+    "quantity": 29,
+    "value": 369
+  },
+  "StatTrak\u2122 Five-SeveN | Kami (Factory New)": {
+    "last_updated": 1461006718,
+    "quantity": 132,
+    "value": 170
+  },
+  "StatTrak\u2122 Five-SeveN | Kami (Field-Tested)": {
+    "last_updated": 1461006718,
+    "quantity": 122,
+    "value": 124
+  },
+  "StatTrak\u2122 Five-SeveN | Kami (Minimal Wear)": {
+    "last_updated": 1461006718,
+    "quantity": 181,
+    "value": 122
+  },
+  "StatTrak\u2122 Five-SeveN | Monkey Business (Battle-Scarred)": {
+    "last_updated": 1461006718,
+    "quantity": 47,
+    "value": 383
+  },
+  "StatTrak\u2122 Five-SeveN | Monkey Business (Field-Tested)": {
+    "last_updated": 1461006718,
+    "quantity": 110,
+    "value": 615
+  },
+  "StatTrak\u2122 Five-SeveN | Monkey Business (Minimal Wear)": {
+    "last_updated": 1461006718,
+    "quantity": 12,
+    "value": 3600
+  },
+  "StatTrak\u2122 Five-SeveN | Monkey Business (Well-Worn)": {
+    "last_updated": 1461006718,
+    "quantity": 74,
+    "value": 496
+  },
+  "StatTrak\u2122 Five-SeveN | Nightshade (Battle-Scarred)": {
+    "last_updated": 1461006718,
+    "quantity": 28,
+    "value": 129
+  },
+  "StatTrak\u2122 Five-SeveN | Nightshade (Factory New)": {
+    "last_updated": 1461006718,
+    "quantity": 93,
+    "value": 195
+  },
+  "StatTrak\u2122 Five-SeveN | Nightshade (Field-Tested)": {
+    "last_updated": 1461006718,
+    "quantity": 156,
+    "value": 112
+  },
+  "StatTrak\u2122 Five-SeveN | Nightshade (Minimal Wear)": {
+    "last_updated": 1461006718,
+    "quantity": 81,
+    "value": 144
+  },
+  "StatTrak\u2122 Five-SeveN | Nightshade (Well-Worn)": {
+    "last_updated": 1461006718,
+    "quantity": 29,
+    "value": 129
+  },
+  "StatTrak\u2122 Five-SeveN | Retrobution (Battle-Scarred)": {
+    "last_updated": 1461006718,
+    "quantity": 47,
+    "value": 192
+  },
+  "StatTrak\u2122 Five-SeveN | Retrobution (Factory New)": {
+    "last_updated": 1461006718,
+    "quantity": 14,
+    "value": 2196
+  },
+  "StatTrak\u2122 Five-SeveN | Retrobution (Field-Tested)": {
+    "last_updated": 1461006718,
+    "quantity": 33,
+    "value": 326
+  },
+  "StatTrak\u2122 Five-SeveN | Retrobution (Minimal Wear)": {
+    "last_updated": 1461006718,
+    "quantity": 25,
+    "value": 825
+  },
+  "StatTrak\u2122 Five-SeveN | Retrobution (Well-Worn)": {
+    "last_updated": 1461006718,
+    "quantity": 45,
+    "value": 239
+  },
+  "StatTrak\u2122 Five-SeveN | Triumvirate (Battle-Scarred)": {
+    "last_updated": 1461006718,
+    "quantity": 24,
+    "value": 221
+  },
+  "StatTrak\u2122 Five-SeveN | Triumvirate (Factory New)": {
+    "last_updated": 1461006718,
+    "quantity": 46,
+    "value": 675
+  },
+  "StatTrak\u2122 Five-SeveN | Triumvirate (Field-Tested)": {
+    "last_updated": 1461006718,
+    "quantity": 37,
+    "value": 231
+  },
+  "StatTrak\u2122 Five-SeveN | Triumvirate (Minimal Wear)": {
+    "last_updated": 1461006718,
+    "quantity": 42,
+    "value": 395
+  },
+  "StatTrak\u2122 Five-SeveN | Triumvirate (Well-Worn)": {
+    "last_updated": 1461006718,
+    "quantity": 32,
+    "value": 224
+  },
+  "StatTrak\u2122 Five-SeveN | Urban Hazard (Factory New)": {
+    "last_updated": 1461006718,
+    "quantity": 171,
+    "value": 284
+  },
+  "StatTrak\u2122 Five-SeveN | Urban Hazard (Field-Tested)": {
+    "last_updated": 1461006718,
+    "quantity": 71,
+    "value": 210
+  },
+  "StatTrak\u2122 Five-SeveN | Urban Hazard (Minimal Wear)": {
+    "last_updated": 1461006718,
+    "quantity": 127,
+    "value": 221
+  },
+  "StatTrak\u2122 Glock-18 | Blue Fissure (Battle-Scarred)": {
+    "last_updated": 1461006772,
+    "quantity": 33,
+    "value": 294
+  },
+  "StatTrak\u2122 Glock-18 | Blue Fissure (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 8,
+    "value": 7298
+  },
+  "StatTrak\u2122 Glock-18 | Blue Fissure (Field-Tested)": {
+    "last_updated": 1461006772,
+    "quantity": 103,
+    "value": 294
+  },
+  "StatTrak\u2122 Glock-18 | Blue Fissure (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 66,
+    "value": 598
+  },
+  "StatTrak\u2122 Glock-18 | Blue Fissure (Well-Worn)": {
+    "last_updated": 1461006772,
+    "quantity": 27,
+    "value": 450
+  },
+  "StatTrak\u2122 Glock-18 | Bunsen Burner (Battle-Scarred)": {
+    "last_updated": 1461006772,
+    "quantity": 121,
+    "value": 82
+  },
+  "StatTrak\u2122 Glock-18 | Bunsen Burner (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 107,
+    "value": 314
+  },
+  "StatTrak\u2122 Glock-18 | Bunsen Burner (Field-Tested)": {
+    "last_updated": 1461006772,
+    "quantity": 391,
+    "value": 73
+  },
+  "StatTrak\u2122 Glock-18 | Bunsen Burner (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 199,
+    "value": 110
+  },
+  "StatTrak\u2122 Glock-18 | Bunsen Burner (Well-Worn)": {
+    "last_updated": 1461006772,
+    "quantity": 42,
+    "value": 149
+  },
+  "StatTrak\u2122 Glock-18 | Catacombs (Battle-Scarred)": {
+    "last_updated": 1461006772,
+    "quantity": 60,
+    "value": 94
+  },
+  "StatTrak\u2122 Glock-18 | Catacombs (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 104,
+    "value": 114
+  },
+  "StatTrak\u2122 Glock-18 | Catacombs (Field-Tested)": {
+    "last_updated": 1461006772,
+    "quantity": 290,
+    "value": 61
+  },
+  "StatTrak\u2122 Glock-18 | Catacombs (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 196,
+    "value": 72
+  },
+  "StatTrak\u2122 Glock-18 | Catacombs (Well-Worn)": {
+    "last_updated": 1461006772,
+    "quantity": 97,
+    "value": 103
+  },
+  "StatTrak\u2122 Glock-18 | Dragon Tattoo (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 57,
+    "value": 2625
+  },
+  "StatTrak\u2122 Glock-18 | Dragon Tattoo (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 6,
+    "value": 3042
+  },
+  "StatTrak\u2122 Glock-18 | Grinder (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 107,
+    "value": 474
+  },
+  "StatTrak\u2122 Glock-18 | Grinder (Field-Tested)": {
+    "last_updated": 1461006772,
+    "quantity": 28,
+    "value": 336
+  },
+  "StatTrak\u2122 Glock-18 | Grinder (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 104,
+    "value": 347
+  },
+  "StatTrak\u2122 Glock-18 | Royal Legion (Battle-Scarred)": {
+    "last_updated": 1461006772,
+    "quantity": 28,
+    "value": 314
+  },
+  "StatTrak\u2122 Glock-18 | Royal Legion (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 20,
+    "value": 1914
+  },
+  "StatTrak\u2122 Glock-18 | Royal Legion (Field-Tested)": {
+    "last_updated": 1461006772,
+    "quantity": 56,
+    "value": 438
+  },
+  "StatTrak\u2122 Glock-18 | Royal Legion (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 43,
+    "value": 772
+  },
+  "StatTrak\u2122 Glock-18 | Royal Legion (Well-Worn)": {
+    "last_updated": 1461006772,
+    "quantity": 35,
+    "value": 376
+  },
+  "StatTrak\u2122 Glock-18 | Steel Disruption (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 47,
+    "value": 556
+  },
+  "StatTrak\u2122 Glock-18 | Steel Disruption (Field-Tested)": {
+    "last_updated": 1461006772,
+    "quantity": 29,
+    "value": 324
+  },
+  "StatTrak\u2122 Glock-18 | Steel Disruption (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 59,
+    "value": 296
+  },
+  "StatTrak\u2122 Glock-18 | Water Elemental (Battle-Scarred)": {
+    "last_updated": 1461006772,
+    "quantity": 25,
+    "value": 784
+  },
+  "StatTrak\u2122 Glock-18 | Water Elemental (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 14,
+    "value": 4078
+  },
+  "StatTrak\u2122 Glock-18 | Water Elemental (Field-Tested)": {
+    "last_updated": 1461006772,
+    "quantity": 66,
+    "value": 1202
+  },
+  "StatTrak\u2122 Glock-18 | Water Elemental (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 32,
+    "value": 2278
+  },
+  "StatTrak\u2122 Glock-18 | Water Elemental (Well-Worn)": {
+    "last_updated": 1461006772,
+    "quantity": 11,
+    "value": 1360
+  },
+  "StatTrak\u2122 Glock-18 | Wraiths (Battle-Scarred)": {
+    "last_updated": 1461006772,
+    "quantity": 96,
+    "value": 70
+  },
+  "StatTrak\u2122 Glock-18 | Wraiths (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 52,
+    "value": 303
+  },
+  "StatTrak\u2122 Glock-18 | Wraiths (Field-Tested)": {
+    "last_updated": 1461006772,
+    "quantity": 292,
+    "value": 70
+  },
+  "StatTrak\u2122 Glock-18 | Wraiths (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 174,
+    "value": 119
+  },
+  "StatTrak\u2122 Glock-18 | Wraiths (Well-Worn)": {
+    "last_updated": 1461006772,
+    "quantity": 42,
+    "value": 135
+  },
+  "Tec-9 | Army Mesh (Battle-Scarred)": {
+    "last_updated": 1461004859,
+    "quantity": 4633,
+    "value": 4
+  },
+  "Tec-9 | Army Mesh (Factory New)": {
+    "last_updated": 1461004859,
+    "quantity": 3092,
+    "value": 6
+  },
+  "Tec-9 | Army Mesh (Field-Tested)": {
+    "last_updated": 1461004859,
+    "quantity": 46558,
+    "value": 4
+  },
+  "Tec-9 | Army Mesh (Minimal Wear)": {
+    "last_updated": 1461004859,
+    "quantity": 19250,
+    "value": 4
+  },
+  "Tec-9 | Army Mesh (Well-Worn)": {
+    "last_updated": 1461004859,
+    "quantity": 1410,
+    "value": 4
+  },
+  "Tec-9 | Avalanche (Battle-Scarred)": {
+    "last_updated": 1461004859,
+    "quantity": 164,
+    "value": 87
+  },
+  "Tec-9 | Avalanche (Factory New)": {
+    "last_updated": 1461004859,
+    "quantity": 24,
+    "value": 713
+  },
+  "Tec-9 | Avalanche (Field-Tested)": {
+    "last_updated": 1461004859,
+    "quantity": 311,
+    "value": 139
+  },
+  "Tec-9 | Avalanche (Minimal Wear)": {
+    "last_updated": 1461004859,
+    "quantity": 128,
+    "value": 313
+  },
+  "Tec-9 | Avalanche (Well-Worn)": {
+    "last_updated": 1461004859,
+    "quantity": 210,
+    "value": 110
+  },
+  "Tec-9 | Bamboo Forest (Battle-Scarred)": {
+    "last_updated": 1461004859,
+    "quantity": 353,
+    "value": 9
+  },
+  "Tec-9 | Bamboo Forest (Factory New)": {
+    "last_updated": 1461004859,
+    "quantity": 534,
+    "value": 49
+  },
+  "Tec-9 | Bamboo Forest (Field-Tested)": {
+    "last_updated": 1461004859,
+    "quantity": 2842,
+    "value": 9
+  },
+  "Tec-9 | Bamboo Forest (Minimal Wear)": {
+    "last_updated": 1461004859,
+    "quantity": 438,
+    "value": 23
+  },
+  "Tec-9 | Bamboo Forest (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 133,
+    "value": 19
+  },
+  "Tec-9 | Blue Titanium (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 130,
+    "value": 122
+  },
+  "Tec-9 | Brass (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 87,
+    "value": 52
+  },
+  "Tec-9 | Brass (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 10,
+    "value": 1035
+  },
+  "Tec-9 | Brass (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 107,
+    "value": 50
+  },
+  "Tec-9 | Brass (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 44,
+    "value": 151
+  },
+  "Tec-9 | Brass (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 58,
+    "value": 64
+  },
+  "Tec-9 | Groundwater (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 9174,
+    "value": 4
+  },
+  "Tec-9 | Groundwater (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 99,
+    "value": 21
+  },
+  "Tec-9 | Groundwater (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 52302,
+    "value": 4
+  },
+  "Tec-9 | Groundwater (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 12203,
+    "value": 4
+  },
+  "Tec-9 | Groundwater (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 7286,
+    "value": 4
+  },
+  "Tec-9 | Hades (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 115,
+    "value": 72
+  },
+  "Tec-9 | Hades (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 128,
+    "value": 110
+  },
+  "Tec-9 | Hades (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 104,
+    "value": 69
+  },
+  "Tec-9 | Hades (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 129,
+    "value": 74
+  },
+  "Tec-9 | Hades (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 90,
+    "value": 69
+  },
+  "Tec-9 | Isaac (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 156,
+    "value": 28
+  },
+  "Tec-9 | Isaac (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 71,
+    "value": 304
+  },
+  "Tec-9 | Isaac (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 462,
+    "value": 41
+  },
+  "Tec-9 | Isaac (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 246,
+    "value": 82
+  },
+  "Tec-9 | Isaac (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 185,
+    "value": 34
+  },
+  "Tec-9 | Jambiya (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 534,
+    "value": 11
+  },
+  "Tec-9 | Jambiya (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 134,
+    "value": 57
+  },
+  "Tec-9 | Jambiya (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 1229,
+    "value": 11
+  },
+  "Tec-9 | Jambiya (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 916,
+    "value": 14
+  },
+  "Tec-9 | Jambiya (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 901,
+    "value": 11
+  },
+  "Tec-9 | Nuclear Threat (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 12,
+    "value": 1024
+  },
+  "Tec-9 | Nuclear Threat (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 21,
+    "value": 1992
+  },
+  "Tec-9 | Nuclear Threat (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 7,
+    "value": 1779
+  },
+  "Tec-9 | Ossified (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 104,
+    "value": 89
+  },
+  "Tec-9 | Ossified (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 24,
+    "value": 261
+  },
+  "Tec-9 | Red Quartz (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 408,
+    "value": 52
+  },
+  "Tec-9 | Red Quartz (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 1069,
+    "value": 28
+  },
+  "Tec-9 | Red Quartz (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 455,
+    "value": 34
+  },
+  "Tec-9 | Red Quartz (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 93,
+    "value": 50
+  },
+  "Tec-9 | Sandstorm (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 1266,
+    "value": 10
+  },
+  "Tec-9 | Sandstorm (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 5836,
+    "value": 10
+  },
+  "Tec-9 | Sandstorm (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 205,
+    "value": 28
+  },
+  "Tec-9 | Sandstorm (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 171,
+    "value": 18
+  },
+  "Tec-9 | Terrace (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 42,
+    "value": 170
+  },
+  "Tec-9 | Terrace (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 18,
+    "value": 844
+  },
+  "Tec-9 | Terrace (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 75,
+    "value": 239
+  },
+  "Tec-9 | Terrace (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 69,
+    "value": 266
+  },
+  "Tec-9 | Terrace (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 59,
+    "value": 188
+  },
+  "Tec-9 | Titanium Bit (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 79,
+    "value": 111
+  },
+  "Tec-9 | Titanium Bit (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 22,
+    "value": 103
+  },
+  "Tec-9 | Titanium Bit (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 64,
+    "value": 111
+  },
+  "Tec-9 | Tornado (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 54,
+    "value": 108
+  },
+  "Tec-9 | Tornado (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 22,
+    "value": 565
+  },
+  "Tec-9 | Tornado (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 111,
+    "value": 64
+  },
+  "Tec-9 | Tornado (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 57,
+    "value": 101
+  },
+  "Tec-9 | Tornado (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 51,
+    "value": 99
+  },
+  "Tec-9 | Toxic (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 29,
+    "value": 122
+  },
+  "Tec-9 | Toxic (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 31,
+    "value": 708
+  },
+  "Tec-9 | Toxic (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 58,
+    "value": 179
+  },
+  "Tec-9 | Toxic (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 60,
+    "value": 426
+  },
+  "Tec-9 | Toxic (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 17,
+    "value": 273
+  },
+  "Tec-9 | Urban DDPAT (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 10458,
+    "value": 4
+  },
+  "Tec-9 | Urban DDPAT (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 142,
+    "value": 28
+  },
+  "Tec-9 | Urban DDPAT (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 36786,
+    "value": 4
+  },
+  "Tec-9 | Urban DDPAT (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 13670,
+    "value": 5
+  },
+  "Tec-9 | Urban DDPAT (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 7592,
+    "value": 4
+  },
+  "Tec-9 | VariCamo (Battle-Scarred)": {
+    "last_updated": 1461004872,
+    "quantity": 769,
+    "value": 7
+  },
+  "Tec-9 | VariCamo (Factory New)": {
+    "last_updated": 1461004872,
+    "quantity": 484,
+    "value": 10
+  },
+  "Tec-9 | VariCamo (Field-Tested)": {
+    "last_updated": 1461004872,
+    "quantity": 4259,
+    "value": 6
+  },
+  "Tec-9 | VariCamo (Minimal Wear)": {
+    "last_updated": 1461004872,
+    "quantity": 2009,
+    "value": 6
+  },
+  "Tec-9 | VariCamo (Well-Worn)": {
+    "last_updated": 1461004872,
+    "quantity": 314,
+    "value": 7
+  },
+  "StatTrak\u2122 USP-S | Blood Tiger (Factory New)": {
+    "last_updated": 1461004664,
+    "quantity": 77,
+    "value": 441
+  },
+  "StatTrak\u2122 USP-S | Blood Tiger (Field-Tested)": {
+    "last_updated": 1461004664,
+    "quantity": 71,
+    "value": 158
+  },
+  "StatTrak\u2122 USP-S | Blood Tiger (Minimal Wear)": {
+    "last_updated": 1461004664,
+    "quantity": 99,
+    "value": 199
+  },
+  "StatTrak\u2122 USP-S | Caiman (Factory New)": {
+    "last_updated": 1461004664,
+    "quantity": 17,
+    "value": 2500
+  },
+  "StatTrak\u2122 USP-S | Caiman (Field-Tested)": {
+    "last_updated": 1461004677,
+    "quantity": 25,
+    "value": 1123
+  },
+  "StatTrak\u2122 USP-S | Caiman (Minimal Wear)": {
+    "last_updated": 1461004677,
+    "quantity": 22,
+    "value": 1667
+  },
+  "StatTrak\u2122 USP-S | Caiman (Well-Worn)": {
+    "last_updated": 1461004677,
+    "quantity": 2,
+    "value": 1578
+  },
+  "StatTrak\u2122 USP-S | Dark Water (Field-Tested)": {
+    "last_updated": 1461004677,
+    "quantity": 33,
+    "value": 1710
+  },
+  "StatTrak\u2122 USP-S | Dark Water (Minimal Wear)": {
+    "last_updated": 1461004677,
+    "quantity": 33,
+    "value": 2079
+  },
+  "StatTrak\u2122 USP-S | Guardian (Factory New)": {
+    "last_updated": 1461004677,
+    "quantity": 76,
+    "value": 542
+  },
+  "StatTrak\u2122 USP-S | Guardian (Field-Tested)": {
+    "last_updated": 1461004677,
+    "quantity": 102,
+    "value": 243
+  },
+  "StatTrak\u2122 USP-S | Guardian (Minimal Wear)": {
+    "last_updated": 1461004677,
+    "quantity": 97,
+    "value": 385
+  },
+  "StatTrak\u2122 USP-S | Kill Confirmed (Battle-Scarred)": {
+    "last_updated": 1461004677,
+    "quantity": 13,
+    "value": 6223
+  },
+  "StatTrak\u2122 USP-S | Kill Confirmed (Factory New)": {
+    "last_updated": 1461004677,
+    "quantity": 3,
+    "value": 29844
+  },
+  "StatTrak\u2122 USP-S | Kill Confirmed (Field-Tested)": {
+    "last_updated": 1461004677,
+    "quantity": 8,
+    "value": 8650
+  },
+  "StatTrak\u2122 USP-S | Kill Confirmed (Minimal Wear)": {
+    "last_updated": 1461004677,
+    "quantity": 7,
+    "value": 14635
+  },
+  "StatTrak\u2122 USP-S | Kill Confirmed (Well-Worn)": {
+    "last_updated": 1461004677,
+    "quantity": 4,
+    "value": 6758
+  },
+  "StatTrak\u2122 USP-S | Lead Conduit (Battle-Scarred)": {
+    "last_updated": 1461004677,
+    "quantity": 85,
+    "value": 129
+  },
+  "StatTrak\u2122 USP-S | Lead Conduit (Factory New)": {
+    "last_updated": 1461004677,
+    "quantity": 22,
+    "value": 794
+  },
+  "StatTrak\u2122 USP-S | Lead Conduit (Field-Tested)": {
+    "last_updated": 1461004677,
+    "quantity": 115,
+    "value": 157
+  },
+  "StatTrak\u2122 USP-S | Lead Conduit (Minimal Wear)": {
+    "last_updated": 1461004677,
+    "quantity": 83,
+    "value": 241
+  },
+  "StatTrak\u2122 USP-S | Lead Conduit (Well-Worn)": {
+    "last_updated": 1461004677,
+    "quantity": 112,
+    "value": 133
+  },
+  "StatTrak\u2122 USP-S | Orion (Battle-Scarred)": {
+    "last_updated": 1461004677,
+    "quantity": 2,
+    "value": 20000
+  },
+  "StatTrak\u2122 USP-S | Orion (Factory New)": {
+    "last_updated": 1461004677,
+    "quantity": 17,
+    "value": 7817
+  },
+  "StatTrak\u2122 USP-S | Orion (Field-Tested)": {
+    "last_updated": 1461004677,
+    "quantity": 8,
+    "value": 3996
+  },
+  "StatTrak\u2122 USP-S | Orion (Minimal Wear)": {
+    "last_updated": 1461004677,
+    "quantity": 12,
+    "value": 4877
+  },
+  "StatTrak\u2122 USP-S | Orion (Well-Worn)": {
+    "last_updated": 1461004677,
+    "quantity": 2,
+    "value": 6453
+  },
+  "StatTrak\u2122 USP-S | Overgrowth (Battle-Scarred)": {
+    "last_updated": 1461004677,
+    "quantity": 19,
+    "value": 1294
+  },
+  "StatTrak\u2122 USP-S | Overgrowth (Field-Tested)": {
+    "last_updated": 1461004677,
+    "quantity": 26,
+    "value": 1345
+  },
+  "StatTrak\u2122 USP-S | Overgrowth (Minimal Wear)": {
+    "last_updated": 1461004677,
+    "quantity": 17,
+    "value": 3244
+  },
+  "StatTrak\u2122 USP-S | Overgrowth (Well-Worn)": {
+    "last_updated": 1461004677,
+    "quantity": 13,
+    "value": 1625
+  },
+  "StatTrak\u2122 USP-S | Serum (Factory New)": {
+    "last_updated": 1461004677,
+    "quantity": 10,
+    "value": 3155
+  },
+  "StatTrak\u2122 USP-S | Serum (Field-Tested)": {
+    "last_updated": 1461004677,
+    "quantity": 12,
+    "value": 1898
+  },
+  "StatTrak\u2122 USP-S | Serum (Minimal Wear)": {
+    "last_updated": 1461004677,
+    "quantity": 15,
+    "value": 2201
+  },
+  "StatTrak\u2122 USP-S | Stainless (Battle-Scarred)": {
+    "last_updated": 1461004677,
+    "quantity": 48,
+    "value": 500
+  },
+  "StatTrak\u2122 USP-S | Stainless (Factory New)": {
+    "last_updated": 1461004677,
+    "quantity": 10,
+    "value": 2800
+  },
+  "StatTrak\u2122 USP-S | Stainless (Field-Tested)": {
+    "last_updated": 1461004677,
+    "quantity": 63,
+    "value": 553
+  },
+  "StatTrak\u2122 USP-S | Stainless (Minimal Wear)": {
+    "last_updated": 1461004677,
+    "quantity": 52,
+    "value": 906
+  },
+  "StatTrak\u2122 USP-S | Stainless (Well-Worn)": {
+    "last_updated": 1461004677,
+    "quantity": 12,
+    "value": 787
+  },
+  "StatTrak\u2122 USP-S | Torque (Battle-Scarred)": {
+    "last_updated": 1461004677,
+    "quantity": 22,
+    "value": 129
+  },
+  "StatTrak\u2122 USP-S | Torque (Factory New)": {
+    "last_updated": 1461004677,
+    "quantity": 138,
+    "value": 258
+  },
+  "StatTrak\u2122 USP-S | Torque (Field-Tested)": {
+    "last_updated": 1461004677,
+    "quantity": 277,
+    "value": 122
+  },
+  "StatTrak\u2122 USP-S | Torque (Minimal Wear)": {
+    "last_updated": 1461004677,
+    "quantity": 288,
+    "value": 193
+  },
+  "StatTrak\u2122 USP-S | Torque (Well-Worn)": {
+    "last_updated": 1461004677,
+    "quantity": 68,
+    "value": 165
+  },
+  "StatTrak\u2122 P2000 | Corticera (Factory New)": {
+    "last_updated": 1461004563,
+    "quantity": 8,
+    "value": 3021
+  },
+  "StatTrak\u2122 P2000 | Corticera (Field-Tested)": {
+    "last_updated": 1461004563,
+    "quantity": 20,
+    "value": 762
+  },
+  "StatTrak\u2122 P2000 | Corticera (Minimal Wear)": {
+    "last_updated": 1461004563,
+    "quantity": 19,
+    "value": 1133
+  },
+  "StatTrak\u2122 P2000 | Fire Elemental (Battle-Scarred)": {
+    "last_updated": 1461004563,
+    "quantity": 4,
+    "value": 5227
+  },
+  "StatTrak\u2122 P2000 | Fire Elemental (Factory New)": {
+    "last_updated": 1461004563,
+    "quantity": 5,
+    "value": 12548
+  },
+  "StatTrak\u2122 P2000 | Fire Elemental (Field-Tested)": {
+    "last_updated": 1461004563,
+    "quantity": 6,
+    "value": 5000
+  },
+  "StatTrak\u2122 P2000 | Fire Elemental (Minimal Wear)": {
+    "last_updated": 1461004563,
+    "quantity": 8,
+    "value": 6500
+  },
+  "StatTrak\u2122 P2000 | Fire Elemental (Well-Worn)": {
+    "last_updated": 1461004563,
+    "quantity": 2,
+    "value": 5574
+  },
+  "StatTrak\u2122 P2000 | Handgun (Battle-Scarred)": {
+    "last_updated": 1461004563,
+    "quantity": 105,
+    "value": 132
+  },
+  "StatTrak\u2122 P2000 | Handgun (Factory New)": {
+    "last_updated": 1461004563,
+    "quantity": 22,
+    "value": 1655
+  },
+  "StatTrak\u2122 P2000 | Handgun (Field-Tested)": {
+    "last_updated": 1461004563,
+    "quantity": 117,
+    "value": 170
+  },
+  "StatTrak\u2122 P2000 | Handgun (Minimal Wear)": {
+    "last_updated": 1461004563,
+    "quantity": 99,
+    "value": 365
+  },
+  "StatTrak\u2122 P2000 | Handgun (Well-Worn)": {
+    "last_updated": 1461004563,
+    "quantity": 75,
+    "value": 156
+  },
+  "StatTrak\u2122 P2000 | Imperial (Factory New)": {
+    "last_updated": 1461004563,
+    "quantity": 197,
+    "value": 157
+  },
+  "StatTrak\u2122 P2000 | Imperial (Field-Tested)": {
+    "last_updated": 1461004563,
+    "quantity": 66,
+    "value": 104
+  },
+  "StatTrak\u2122 P2000 | Imperial (Minimal Wear)": {
+    "last_updated": 1461004563,
+    "quantity": 122,
+    "value": 115
+  },
+  "StatTrak\u2122 P2000 | Ivory (Battle-Scarred)": {
+    "last_updated": 1461004563,
+    "quantity": 271,
+    "value": 26
+  },
+  "StatTrak\u2122 P2000 | Ivory (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 106,
+    "value": 121
+  },
+  "StatTrak\u2122 P2000 | Ivory (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 521,
+    "value": 26
+  },
+  "StatTrak\u2122 P2000 | Ivory (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 487,
+    "value": 31
+  },
+  "StatTrak\u2122 P2000 | Ivory (Well-Worn)": {
+    "last_updated": 1461004586,
+    "quantity": 408,
+    "value": 25
+  },
+  "StatTrak\u2122 P2000 | Ocean Foam (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 17,
+    "value": 17767
+  },
+  "StatTrak\u2122 P2000 | Ocean Foam (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 3,
+    "value": 13133
+  },
+  "StatTrak\u2122 P2000 | Pulse (Battle-Scarred)": {
+    "last_updated": 1461004586,
+    "quantity": 122,
+    "value": 47
+  },
+  "StatTrak\u2122 P2000 | Pulse (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 121,
+    "value": 156
+  },
+  "StatTrak\u2122 P2000 | Pulse (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 322,
+    "value": 42
+  },
+  "StatTrak\u2122 P2000 | Pulse (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 253,
+    "value": 75
+  },
+  "StatTrak\u2122 P2000 | Pulse (Well-Worn)": {
+    "last_updated": 1461004586,
+    "quantity": 100,
+    "value": 76
+  },
+  "StatTrak\u2122 P2000 | Red FragCam (Battle-Scarred)": {
+    "last_updated": 1461004586,
+    "quantity": 63,
+    "value": 115
+  },
+  "StatTrak\u2122 P2000 | Red FragCam (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 58,
+    "value": 420
+  },
+  "StatTrak\u2122 P2000 | Red FragCam (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 177,
+    "value": 59
+  },
+  "StatTrak\u2122 P2000 | Red FragCam (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 137,
+    "value": 142
+  },
+  "StatTrak\u2122 P2000 | Red FragCam (Well-Worn)": {
+    "last_updated": 1461004586,
+    "quantity": 29,
+    "value": 126
+  },
+  "StatTrak\u2122 P250 | Cartel (Battle-Scarred)": {
+    "last_updated": 1461004586,
+    "quantity": 11,
+    "value": 788
+  },
+  "StatTrak\u2122 P250 | Cartel (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 9,
+    "value": 4730
+  },
+  "StatTrak\u2122 P250 | Cartel (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 35,
+    "value": 834
+  },
+  "StatTrak\u2122 P250 | Cartel (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 28,
+    "value": 1394
+  },
+  "StatTrak\u2122 P250 | Cartel (Well-Worn)": {
+    "last_updated": 1461004586,
+    "quantity": 12,
+    "value": 1041
+  },
+  "StatTrak\u2122 P250 | Hive (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 97,
+    "value": 408
+  },
+  "StatTrak\u2122 P250 | Hive (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 66,
+    "value": 225
+  },
+  "StatTrak\u2122 P250 | Hive (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 104,
+    "value": 271
+  },
+  "StatTrak\u2122 P250 | Mehndi (Battle-Scarred)": {
+    "last_updated": 1461004586,
+    "quantity": 8,
+    "value": 1467
+  },
+  "StatTrak\u2122 P250 | Mehndi (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 7,
+    "value": 7104
+  },
+  "StatTrak\u2122 P250 | Mehndi (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 14,
+    "value": 1854
+  },
+  "StatTrak\u2122 P250 | Mehndi (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 13,
+    "value": 2700
+  },
+  "StatTrak\u2122 P250 | Mehndi (Well-Worn)": {
+    "last_updated": 1461004586,
+    "quantity": 10,
+    "value": 1468
+  },
+  "StatTrak\u2122 P250 | Muertos (Battle-Scarred)": {
+    "last_updated": 1461004586,
+    "quantity": 13,
+    "value": 750
+  },
+  "StatTrak\u2122 P250 | Muertos (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 23,
+    "value": 1688
+  },
+  "StatTrak\u2122 P250 | Muertos (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 49,
+    "value": 784
+  },
+  "StatTrak\u2122 P250 | Muertos (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 51,
+    "value": 906
+  },
+  "StatTrak\u2122 P250 | Muertos (Well-Worn)": {
+    "last_updated": 1461004586,
+    "quantity": 8,
+    "value": 833
+  },
+  "StatTrak\u2122 P250 | Splash (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 7,
+    "value": 5439
+  },
+  "StatTrak\u2122 P250 | Splash (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 5,
+    "value": 902
+  },
+  "StatTrak\u2122 P250 | Splash (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 55,
+    "value": 1300
+  },
+  "StatTrak\u2122 P250 | Steel Disruption (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 165,
+    "value": 114
+  },
+  "StatTrak\u2122 P250 | Steel Disruption (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 91,
+    "value": 109
+  },
+  "StatTrak\u2122 P250 | Steel Disruption (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 153,
+    "value": 103
+  },
+  "StatTrak\u2122 P250 | Supernova (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 107,
+    "value": 259
+  },
+  "StatTrak\u2122 P250 | Supernova (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 178,
+    "value": 112
+  },
+  "StatTrak\u2122 P250 | Supernova (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 146,
+    "value": 164
+  },
+  "StatTrak\u2122 P250 | Supernova (Well-Worn)": {
+    "last_updated": 1461004586,
+    "quantity": 38,
+    "value": 191
+  },
+  "StatTrak\u2122 P250 | Undertow (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 14,
+    "value": 2779
+  },
+  "StatTrak\u2122 P250 | Undertow (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 5,
+    "value": 1227
+  },
+  "StatTrak\u2122 P250 | Undertow (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 15,
+    "value": 2245
+  },
+  "StatTrak\u2122 P250 | Valence (Battle-Scarred)": {
+    "last_updated": 1461004586,
+    "quantity": 183,
+    "value": 40
+  },
+  "StatTrak\u2122 P250 | Valence (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 150,
+    "value": 220
+  },
+  "StatTrak\u2122 P250 | Valence (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 603,
+    "value": 43
+  },
+  "StatTrak\u2122 P250 | Valence (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 287,
+    "value": 75
+  },
+  "StatTrak\u2122 P250 | Valence (Well-Worn)": {
+    "last_updated": 1461004586,
+    "quantity": 53,
+    "value": 109
+  },
+  "StatTrak\u2122 P250 | Wingshot (Battle-Scarred)": {
+    "last_updated": 1461004586,
+    "quantity": 53,
+    "value": 190
+  },
+  "StatTrak\u2122 P250 | Wingshot (Factory New)": {
+    "last_updated": 1461004586,
+    "quantity": 30,
+    "value": 1071
+  },
+  "StatTrak\u2122 P250 | Wingshot (Field-Tested)": {
+    "last_updated": 1461004586,
+    "quantity": 124,
+    "value": 210
+  },
+  "StatTrak\u2122 P250 | Wingshot (Minimal Wear)": {
+    "last_updated": 1461004586,
+    "quantity": 66,
+    "value": 382
+  },
+  "StatTrak\u2122 P250 | Wingshot (Well-Worn)": {
+    "last_updated": 1461004586,
+    "quantity": 62,
+    "value": 197
+  },
+  "StatTrak\u2122 Tec-9 | Avalanche (Battle-Scarred)": {
+    "last_updated": 1461004664,
+    "quantity": 28,
+    "value": 476
+  },
+  "StatTrak\u2122 Tec-9 | Avalanche (Factory New)": {
+    "last_updated": 1461004664,
+    "quantity": 18,
+    "value": 3692
+  },
+  "StatTrak\u2122 Tec-9 | Avalanche (Field-Tested)": {
+    "last_updated": 1461004664,
+    "quantity": 41,
+    "value": 834
+  },
+  "StatTrak\u2122 Tec-9 | Avalanche (Minimal Wear)": {
+    "last_updated": 1461004664,
+    "quantity": 15,
+    "value": 1789
+  },
+  "StatTrak\u2122 Tec-9 | Avalanche (Well-Worn)": {
+    "last_updated": 1461004664,
+    "quantity": 32,
+    "value": 557
+  },
+  "StatTrak\u2122 Tec-9 | Blue Titanium (Factory New)": {
+    "last_updated": 1461004664,
+    "quantity": 87,
+    "value": 383
+  },
+  "StatTrak\u2122 Tec-9 | Isaac (Battle-Scarred)": {
+    "last_updated": 1461004664,
+    "quantity": 137,
+    "value": 92
+  },
+  "StatTrak\u2122 Tec-9 | Isaac (Factory New)": {
+    "last_updated": 1461004664,
+    "quantity": 22,
+    "value": 1389
+  },
+  "StatTrak\u2122 Tec-9 | Isaac (Field-Tested)": {
+    "last_updated": 1461004664,
+    "quantity": 83,
+    "value": 167
+  },
+  "StatTrak\u2122 Tec-9 | Isaac (Minimal Wear)": {
+    "last_updated": 1461004664,
+    "quantity": 72,
+    "value": 304
+  },
+  "StatTrak\u2122 Tec-9 | Isaac (Well-Worn)": {
+    "last_updated": 1461004664,
+    "quantity": 102,
+    "value": 112
+  },
+  "StatTrak\u2122 Tec-9 | Jambiya (Battle-Scarred)": {
+    "last_updated": 1461004664,
+    "quantity": 85,
+    "value": 52
+  },
+  "StatTrak\u2122 Tec-9 | Jambiya (Factory New)": {
+    "last_updated": 1461004664,
+    "quantity": 39,
+    "value": 531
+  },
+  "StatTrak\u2122 Tec-9 | Jambiya (Field-Tested)": {
+    "last_updated": 1461004664,
+    "quantity": 222,
+    "value": 69
+  },
+  "StatTrak\u2122 Tec-9 | Jambiya (Minimal Wear)": {
+    "last_updated": 1461004664,
+    "quantity": 104,
+    "value": 124
+  },
+  "StatTrak\u2122 Tec-9 | Jambiya (Well-Worn)": {
+    "last_updated": 1461004664,
+    "quantity": 61,
+    "value": 63
+  },
+  "StatTrak\u2122 Tec-9 | Sandstorm (Battle-Scarred)": {
+    "last_updated": 1461004664,
+    "quantity": 204,
+    "value": 28
+  },
+  "StatTrak\u2122 Tec-9 | Sandstorm (Field-Tested)": {
+    "last_updated": 1461004664,
+    "quantity": 1591,
+    "value": 31
+  },
+  "StatTrak\u2122 Tec-9 | Sandstorm (Minimal Wear)": {
+    "last_updated": 1461004664,
+    "quantity": 68,
+    "value": 150
+  },
+  "StatTrak\u2122 Tec-9 | Sandstorm (Well-Worn)": {
+    "last_updated": 1461004664,
+    "quantity": 76,
+    "value": 66
+  },
+  "StatTrak\u2122 Tec-9 | Titanium Bit (Factory New)": {
+    "last_updated": 1461004664,
+    "quantity": 36,
+    "value": 765
+  },
+  "StatTrak\u2122 Tec-9 | Titanium Bit (Field-Tested)": {
+    "last_updated": 1461004664,
+    "quantity": 19,
+    "value": 559
+  },
+  "StatTrak\u2122 Tec-9 | Titanium Bit (Minimal Wear)": {
+    "last_updated": 1461004664,
+    "quantity": 27,
+    "value": 511
+  },
+  "StatTrak\u2122 R8 Revolver | Crimson Web (Battle-Scarred)": {
+    "last_updated": 1461004631,
+    "quantity": 248,
+    "value": 46
+  },
+  "StatTrak\u2122 R8 Revolver | Crimson Web (Factory New)": {
+    "last_updated": 1461004631,
+    "quantity": 26,
+    "value": 2122
+  },
+  "StatTrak\u2122 R8 Revolver | Crimson Web (Field-Tested)": {
+    "last_updated": 1461004631,
+    "quantity": 665,
+    "value": 49
+  },
+  "StatTrak\u2122 R8 Revolver | Crimson Web (Minimal Wear)": {
+    "last_updated": 1461004631,
+    "quantity": 164,
+    "value": 197
+  },
+  "StatTrak\u2122 R8 Revolver | Crimson Web (Well-Worn)": {
+    "last_updated": 1461004631,
+    "quantity": 161,
+    "value": 70
+  },
+  "StatTrak\u2122 R8 Revolver | Fade (Factory New)": {
+    "last_updated": 1461004631,
+    "quantity": 18,
+    "value": 4940
+  },
+  "StatTrak\u2122 R8 Revolver | Fade (Field-Tested)": {
+    "last_updated": 1461004631,
+    "quantity": 28,
+    "value": 1215
+  },
+  "StatTrak\u2122 R8 Revolver | Fade (Minimal Wear)": {
+    "last_updated": 1461004631,
+    "quantity": 15,
+    "value": 2500
+  },
+  "StatTrak\u2122 R8 Revolver | Fade (Well-Worn)": {
+    "last_updated": 1461004631,
+    "quantity": 2,
+    "value": 5000
+  }
+
+}

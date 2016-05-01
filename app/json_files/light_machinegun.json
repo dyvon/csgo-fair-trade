@@ -1,0 +1,647 @@
+{
+"M249 | Blizzard Marbleized (Battle-Scarred)": {
+"last_updated": 1461006231,
+"quantity": 26,
+"value": 190
+},
+"M249 | Blizzard Marbleized (Factory New)": {
+"last_updated": 1461006231,
+"quantity": 2,
+"value": 4843
+},
+"M249 | Blizzard Marbleized (Field-Tested)": {
+"last_updated": 1461006231,
+"quantity": 76,
+"value": 135
+},
+"M249 | Blizzard Marbleized (Minimal Wear)": {
+"last_updated": 1461006231,
+"quantity": 23,
+"value": 336
+},
+"M249 | Blizzard Marbleized (Well-Worn)": {
+"last_updated": 1461006231,
+"quantity": 7,
+"value": 1546
+},
+"M249 | Contrast Spray (Battle-Scarred)": {
+"last_updated": 1461006231,
+"quantity": 812,
+"value": 4
+},
+"M249 | Contrast Spray (Factory New)": {
+"last_updated": 1461006231,
+"quantity": 92,
+"value": 48
+},
+"M249 | Contrast Spray (Field-Tested)": {
+"last_updated": 1461006231,
+"quantity": 3776,
+"value": 5
+},
+"M249 | Contrast Spray (Minimal Wear)": {
+"last_updated": 1461006231,
+"quantity": 610,
+"value": 6
+},
+"M249 | Contrast Spray (Well-Worn)": {
+"last_updated": 1461006231,
+"quantity": 370,
+"value": 6
+},
+"M249 | Gator Mesh (Battle-Scarred)": {
+"last_updated": 1461006231,
+"quantity": 804,
+"value": 6
+},
+"M249 | Gator Mesh (Factory New)": {
+"last_updated": 1461006231,
+"quantity": 490,
+"value": 10
+},
+"M249 | Gator Mesh (Field-Tested)": {
+"last_updated": 1461006231,
+"quantity": 4325,
+"value": 6
+},
+"M249 | Gator Mesh (Minimal Wear)": {
+"last_updated": 1461006231,
+"quantity": 3221,
+"value": 7
+},
+"M249 | Gator Mesh (Well-Worn)": {
+"last_updated": 1461006231,
+"quantity": 335,
+"value": 6
+},
+"M249 | Impact Drill (Battle-Scarred)": {
+"last_updated": 1461006231,
+"quantity": 567,
+"value": 5
+},
+"M249 | Impact Drill (Factory New)": {
+"last_updated": 1461006231,
+"quantity": 104,
+"value": 46
+},
+"M249 | Impact Drill (Field-Tested)": {
+"last_updated": 1461006231,
+"quantity": 1219,
+"value": 6
+},
+"M249 | Impact Drill (Minimal Wear)": {
+"last_updated": 1461006231,
+"quantity": 338,
+"value": 10
+},
+"M249 | Impact Drill (Well-Worn)": {
+"last_updated": 1461006231,
+"quantity": 910,
+"value": 6
+},
+"M249 | Jungle DDPAT (Battle-Scarred)": {
+"last_updated": 1461006231,
+"quantity": 118,
+"value": 64
+},
+"M249 | Jungle DDPAT (Factory New)": {
+"last_updated": 1461006231,
+"quantity": 15,
+"value": 558
+},
+"M249 | Jungle DDPAT (Field-Tested)": {
+"last_updated": 1461006231,
+"quantity": 96,
+"value": 73
+},
+"M249 | Jungle DDPAT (Minimal Wear)": {
+"last_updated": 1461006231,
+"quantity": 55,
+"value": 111
+},
+"M249 | Jungle DDPAT (Well-Worn)": {
+"last_updated": 1461006231,
+"quantity": 48,
+"value": 212
+},
+"M249 | Magma (Battle-Scarred)": {
+"last_updated": 1461006231,
+"quantity": 138,
+"value": 24
+},
+"M249 | Magma (Factory New)": {
+"last_updated": 1461006231,
+"quantity": 118,
+"value": 36
+},
+"M249 | Magma (Field-Tested)": {
+"last_updated": 1461006231,
+"quantity": 404,
+"value": 16
+},
+"M249 | Magma (Minimal Wear)": {
+"last_updated": 1461006231,
+"quantity": 159,
+"value": 20
+},
+"M249 | Magma (Well-Worn)": {
+"last_updated": 1461006231,
+"quantity": 69,
+"value": 50
+},
+"M249 | Nebula Crusader (Battle-Scarred)": {
+"last_updated": 1461006231,
+"quantity": 410,
+"value": 50
+},
+"M249 | Nebula Crusader (Factory New)": {
+"last_updated": 1461006231,
+"quantity": 92,
+"value": 169
+},
+"M249 | Nebula Crusader (Field-Tested)": {
+"last_updated": 1461006231,
+"quantity": 1002,
+"value": 52
+},
+"M249 | Nebula Crusader (Minimal Wear)": {
+"last_updated": 1461006231,
+"quantity": 548,
+"value": 75
+},
+"M249 | Nebula Crusader (Well-Worn)": {
+"last_updated": 1461006231,
+"quantity": 376,
+"value": 51
+},
+"M249 | Shipping Forecast (Battle-Scarred)": {
+"last_updated": 1461006231,
+"quantity": 41,
+"value": 70
+},
+"M249 | Shipping Forecast (Factory New)": {
+"last_updated": 1461006231,
+"quantity": 95,
+"value": 78
+},
+"M249 | Shipping Forecast (Field-Tested)": {
+"last_updated": 1461006231,
+"quantity": 149,
+"value": 69
+},
+"M249 | Shipping Forecast (Minimal Wear)": {
+"last_updated": 1461006231,
+"quantity": 105,
+"value": 75
+},
+"M249 | Shipping Forecast (Well-Worn)": {
+"last_updated": 1461006231,
+"quantity": 37,
+"value": 74
+},
+"M249 | System Lock (Battle-Scarred)": {
+"last_updated": 1461006231,
+"quantity": 502,
+"value": 11
+},
+"M249 | System Lock (Factory New)": {
+"last_updated": 1461006231,
+"quantity": 126,
+"value": 26
+},
+"M249 | System Lock (Field-Tested)": {
+"last_updated": 1461006231,
+"quantity": 2056,
+"value": 11
+},
+"M249 | System Lock (Minimal Wear)": {
+"last_updated": 1461006231,
+"quantity": 520,
+"value": 12
+},
+"M249 | System Lock (Well-Worn)": {
+"last_updated": 1461006231,
+"quantity": 125,
+"value": 14
+},
+  "Negev | Anodized Navy (Factory New)": {
+    "last_updated": 1461006335,
+    "quantity": 7,
+    "value": 8295
+  },
+  "Negev | Anodized Navy (Minimal Wear)": {
+    "last_updated": 1461006335,
+    "quantity": 4,
+    "value": 10136
+  },
+  "Negev | Army Sheen (Factory New)": {
+    "last_updated": 1461006335,
+    "quantity": 9391,
+    "value": 5
+  },
+  "Negev | Army Sheen (Field-Tested)": {
+    "last_updated": 1461006335,
+    "quantity": 9922,
+    "value": 4
+  },
+  "Negev | Army Sheen (Minimal Wear)": {
+    "last_updated": 1461006335,
+    "quantity": 27313,
+    "value": 4
+  },
+  "Negev | Bratatat (Battle-Scarred)": {
+    "last_updated": 1461006335,
+    "quantity": 168,
+    "value": 25
+  },
+  "Negev | Bratatat (Factory New)": {
+    "last_updated": 1461006335,
+    "quantity": 50,
+    "value": 195
+  },
+  "Negev | Bratatat (Field-Tested)": {
+    "last_updated": 1461006335,
+    "quantity": 101,
+    "value": 23
+  },
+  "Negev | Bratatat (Minimal Wear)": {
+    "last_updated": 1461006335,
+    "quantity": 98,
+    "value": 39
+  },
+  "Negev | Bratatat (Well-Worn)": {
+    "last_updated": 1461006335,
+    "quantity": 110,
+    "value": 23
+  },
+  "Negev | CaliCamo (Battle-Scarred)": {
+    "last_updated": 1461006335,
+    "quantity": 39,
+    "value": 97
+  },
+  "Negev | CaliCamo (Factory New)": {
+    "last_updated": 1461006335,
+    "quantity": 30,
+    "value": 184
+  },
+  "Negev | CaliCamo (Field-Tested)": {
+    "last_updated": 1461006335,
+    "quantity": 94,
+    "value": 76
+  },
+  "Negev | CaliCamo (Minimal Wear)": {
+    "last_updated": 1461006335,
+    "quantity": 79,
+    "value": 81
+  },
+  "Negev | CaliCamo (Well-Worn)": {
+    "last_updated": 1461006335,
+    "quantity": 26,
+    "value": 120
+  },
+  "Negev | Desert-Strike (Battle-Scarred)": {
+    "last_updated": 1461006335,
+    "quantity": 338,
+    "value": 11
+  },
+  "Negev | Desert-Strike (Factory New)": {
+    "last_updated": 1461006335,
+    "quantity": 939,
+    "value": 13
+  },
+  "Negev | Desert-Strike (Field-Tested)": {
+    "last_updated": 1461006335,
+    "quantity": 3796,
+    "value": 10
+  },
+  "Negev | Desert-Strike (Minimal Wear)": {
+    "last_updated": 1461006335,
+    "quantity": 1780,
+    "value": 10
+  },
+  "Negev | Desert-Strike (Well-Worn)": {
+    "last_updated": 1461006335,
+    "quantity": 518,
+    "value": 10
+  },
+  "Negev | Loudmouth (Battle-Scarred)": {
+    "last_updated": 1461006335,
+    "quantity": 163,
+    "value": 31
+  },
+  "Negev | Loudmouth (Field-Tested)": {
+    "last_updated": 1461006335,
+    "quantity": 1776,
+    "value": 32
+  },
+  "Negev | Loudmouth (Minimal Wear)": {
+    "last_updated": 1461006335,
+    "quantity": 33,
+    "value": 190
+  },
+  "Negev | Loudmouth (Well-Worn)": {
+    "last_updated": 1461006335,
+    "quantity": 72,
+    "value": 50
+  },
+  "Negev | Man-o'-war (Field-Tested)": {
+    "last_updated": 1461006335,
+    "quantity": 1734,
+    "value": 10
+  },
+  "Negev | Man-o'-war (Minimal Wear)": {
+    "last_updated": 1461006347,
+    "quantity": 6953,
+    "value": 10
+  },
+  "Negev | Nuclear Waste (Factory New)": {
+    "last_updated": 1461006347,
+    "quantity": 77,
+    "value": 43
+  },
+  "Negev | Nuclear Waste (Field-Tested)": {
+    "last_updated": 1461006347,
+    "quantity": 119,
+    "value": 16
+  },
+  "Negev | Nuclear Waste (Minimal Wear)": {
+    "last_updated": 1461006347,
+    "quantity": 148,
+    "value": 24
+  },
+  "Negev | Nuclear Waste (Well-Worn)": {
+    "last_updated": 1461006347,
+    "quantity": 64,
+    "value": 37
+  },
+  "Negev | Palm (Battle-Scarred)": {
+    "last_updated": 1461006347,
+    "quantity": 44,
+    "value": 168
+  },
+  "Negev | Palm (Factory New)": {
+    "last_updated": 1461006347,
+    "quantity": 9,
+    "value": 1144
+  },
+  "Negev | Palm (Field-Tested)": {
+    "last_updated": 1461006347,
+    "quantity": 75,
+    "value": 70
+  },
+  "Negev | Palm (Minimal Wear)": {
+    "last_updated": 1461006347,
+    "quantity": 39,
+    "value": 382
+  },
+  "Negev | Palm (Well-Worn)": {
+    "last_updated": 1461006347,
+    "quantity": 39,
+    "value": 151
+  },
+  "Negev | Power Loader (Battle-Scarred)": {
+    "last_updated": 1461006347,
+    "quantity": 131,
+    "value": 56
+  },
+  "Negev | Power Loader (Factory New)": {
+    "last_updated": 1461006347,
+    "quantity": 50,
+    "value": 221
+  },
+  "Negev | Power Loader (Field-Tested)": {
+    "last_updated": 1461006347,
+    "quantity": 369,
+    "value": 70
+  },
+  "Negev | Power Loader (Minimal Wear)": {
+    "last_updated": 1461006347,
+    "quantity": 169,
+    "value": 126
+  },
+  "Negev | Power Loader (Well-Worn)": {
+    "last_updated": 1461006347,
+    "quantity": 147,
+    "value": 59
+  },
+  "Negev | Terrain (Factory New)": {
+    "last_updated": 1461006347,
+    "quantity": 824,
+    "value": 15
+  },
+  "Negev | Terrain (Field-Tested)": {
+    "last_updated": 1461006347,
+    "quantity": 3374,
+    "value": 10
+  },
+  "Negev | Terrain (Minimal Wear)": {
+    "last_updated": 1461006347,
+    "quantity": 1348,
+    "value": 11
+  },
+  "Negev | Terrain (Well-Worn)": {
+    "last_updated": 1461006347,
+    "quantity": 424,
+    "value": 12
+  },
+  "StatTrak\u2122 M249 | Magma (Battle-Scarred)": {
+    "last_updated": 1461006772,
+    "quantity": 108,
+    "value": 39
+  },
+  "StatTrak\u2122 M249 | Magma (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 73,
+    "value": 108
+  },
+  "StatTrak\u2122 M249 | Magma (Field-Tested)": {
+    "last_updated": 1461006772,
+    "quantity": 168,
+    "value": 38
+  },
+  "StatTrak\u2122 M249 | Magma (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 128,
+    "value": 55
+  },
+  "StatTrak\u2122 M249 | Magma (Well-Worn)": {
+    "last_updated": 1461006772,
+    "quantity": 70,
+    "value": 70
+  },
+  "StatTrak\u2122 M249 | Nebula Crusader (Battle-Scarred)": {
+    "last_updated": 1461006772,
+    "quantity": 57,
+    "value": 132
+  },
+  "StatTrak\u2122 M249 | Nebula Crusader (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 18,
+    "value": 610
+  },
+  "StatTrak\u2122 M249 | Nebula Crusader (Field-Tested)": {
+    "last_updated": 1461006772,
+    "quantity": 84,
+    "value": 157
+  },
+  "StatTrak\u2122 M249 | Nebula Crusader (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 78,
+    "value": 264
+  },
+  "StatTrak\u2122 M249 | Nebula Crusader (Well-Worn)": {
+    "last_updated": 1461006772,
+    "quantity": 112,
+    "value": 144
+  },
+  "StatTrak\u2122 M249 | System Lock (Battle-Scarred)": {
+    "last_updated": 1461006772,
+    "quantity": 70,
+    "value": 26
+  },
+  "StatTrak\u2122 M249 | System Lock (Factory New)": {
+    "last_updated": 1461006772,
+    "quantity": 97,
+    "value": 89
+  },
+  "StatTrak\u2122 M249 | System Lock (Field-Tested)": {
+    "last_updated": 1461006772,
+    "quantity": 231,
+    "value": 25
+  },
+  "StatTrak\u2122 M249 | System Lock (Minimal Wear)": {
+    "last_updated": 1461006772,
+    "quantity": 149,
+    "value": 31
+  },
+  "StatTrak\u2122 M249 | System Lock (Well-Worn)": {
+    "last_updated": 1461006772,
+    "quantity": 103,
+    "value": 39
+  },
+  "StatTrak\u2122 Negev | Bratatat (Battle-Scarred)": {
+    "last_updated": 1461004563,
+    "quantity": 102,
+    "value": 43
+  },
+  "StatTrak\u2122 Negev | Bratatat (Factory New)": {
+    "last_updated": 1461004563,
+    "quantity": 22,
+    "value": 635
+  },
+  "StatTrak\u2122 Negev | Bratatat (Field-Tested)": {
+    "last_updated": 1461004563,
+    "quantity": 82,
+    "value": 46
+  },
+  "StatTrak\u2122 Negev | Bratatat (Minimal Wear)": {
+    "last_updated": 1461004563,
+    "quantity": 41,
+    "value": 120
+  },
+  "StatTrak\u2122 Negev | Bratatat (Well-Worn)": {
+    "last_updated": 1461004563,
+    "quantity": 113,
+    "value": 56
+  },
+  "StatTrak\u2122 Negev | Desert-Strike (Battle-Scarred)": {
+    "last_updated": 1461004563,
+    "quantity": 90,
+    "value": 27
+  },
+  "StatTrak\u2122 Negev | Desert-Strike (Factory New)": {
+    "last_updated": 1461004563,
+    "quantity": 193,
+    "value": 47
+  },
+  "StatTrak\u2122 Negev | Desert-Strike (Field-Tested)": {
+    "last_updated": 1461004563,
+    "quantity": 318,
+    "value": 26
+  },
+  "StatTrak\u2122 Negev | Desert-Strike (Minimal Wear)": {
+    "last_updated": 1461004563,
+    "quantity": 211,
+    "value": 26
+  },
+  "StatTrak\u2122 Negev | Desert-Strike (Well-Worn)": {
+    "last_updated": 1461004563,
+    "quantity": 107,
+    "value": 32
+  },
+  "StatTrak\u2122 Negev | Loudmouth (Battle-Scarred)": {
+    "last_updated": 1461004563,
+    "quantity": 46,
+    "value": 85
+  },
+  "StatTrak\u2122 Negev | Loudmouth (Field-Tested)": {
+    "last_updated": 1461004563,
+    "quantity": 131,
+    "value": 84
+  },
+  "StatTrak\u2122 Negev | Loudmouth (Minimal Wear)": {
+    "last_updated": 1461004563,
+    "quantity": 11,
+    "value": 867
+  },
+  "StatTrak\u2122 Negev | Loudmouth (Well-Worn)": {
+    "last_updated": 1461004563,
+    "quantity": 35,
+    "value": 108
+  },
+  "StatTrak\u2122 Negev | Man-o'-war (Field-Tested)": {
+    "last_updated": 1461004563,
+    "quantity": 157,
+    "value": 25
+  },
+  "StatTrak\u2122 Negev | Man-o'-war (Minimal Wear)": {
+    "last_updated": 1461004563,
+    "quantity": 511,
+    "value": 28
+  },
+  "StatTrak\u2122 Negev | Power Loader (Battle-Scarred)": {
+    "last_updated": 1461004563,
+    "quantity": 33,
+    "value": 147
+  },
+  "StatTrak\u2122 Negev | Power Loader (Factory New)": {
+    "last_updated": 1461004563,
+    "quantity": 10,
+    "value": 1100
+  },
+  "StatTrak\u2122 Negev | Power Loader (Field-Tested)": {
+    "last_updated": 1461004563,
+    "quantity": 55,
+    "value": 225
+  },
+  "StatTrak\u2122 Negev | Power Loader (Minimal Wear)": {
+    "last_updated": 1461004563,
+    "quantity": 39,
+    "value": 478
+  },
+  "StatTrak\u2122 Negev | Power Loader (Well-Worn)": {
+    "last_updated": 1461004563,
+    "quantity": 34,
+    "value": 157
+  },
+  "StatTrak\u2122 Negev | Terrain (Factory New)": {
+    "last_updated": 1461004563,
+    "quantity": 136,
+    "value": 52
+  },
+  "StatTrak\u2122 Negev | Terrain (Field-Tested)": {
+    "last_updated": 1461004563,
+    "quantity": 483,
+    "value": 25
+  },
+  "StatTrak\u2122 Negev | Terrain (Minimal Wear)": {
+    "last_updated": 1461004563,
+    "quantity": 315,
+    "value": 30
+  },
+  "StatTrak\u2122 Negev | Terrain (Well-Worn)": {
+    "last_updated": 1461004563,
+    "quantity": 133,
+    "value": 27
+  }
+}
