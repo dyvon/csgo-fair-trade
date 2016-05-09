@@ -2,6 +2,9 @@ angular.module('app', [])
   .controller('AppCtrl', AppCtrl)
   .service('SkinsApi', skinsApi);
 
+var select_skin_type = document.getElementById("select_skin_types");
+
+
 function skinsApi($http) {
   /**
    * This function will call an api and return some skins.
@@ -59,6 +62,16 @@ function skinsApi($http) {
     };
 }
 
+function select_change(){
+    var skin_list_div = document.getElementById("skin_list_div");
+    var select = document.createElement("select");
+    skin_list_div.appendChild(select);
+    select.setAttribute("class", "form-control");
+    select.setAttribute("ng-model", "app.selectedSkin");
+    select.setAttribute("ng-options", "skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins");
+
+
+}
 /**
  * Skins Controller.
  *
@@ -67,21 +80,24 @@ function skinsApi($http) {
  */
 
 function AppCtrl(SkinsApi, $filter) {
-  var vm = this;
-    SkinsApi.rifle()
-        .then(function (skins) {
-            var names = _.keys(skins),
-                data = _.values(skins);
+        var test = SkinsApi.rifle()
+            .then(function (skins) {
+                var names = _.keys(skins),
+                    data = _.values(skins);
 
-            data = _.map(data, function (skin, index) {
-                skin.name = names[index];
-                skin.last_updated = moment(skin.last_updated * 1000).fromNow();
-                skin.currencyValue = $filter('currency')(skin.value / 100);
-                return skin;
+                data = _.map(data, function (skin, index) {
+                    skin.name = names[index];
+                    skin.last_updated = moment(skin.last_updated * 1000).fromNow();
+                    skin.currencyValue = $filter('currency')(skin.value / 100);
+                    return skin;
+                });
+
+                vm.skins = data;
             });
 
-            vm.skins = data;
-        });
+
+  var vm = this;
+  test
 }
 
 

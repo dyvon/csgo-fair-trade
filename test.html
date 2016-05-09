@@ -9,57 +9,67 @@
     <title>Fair Trade</title>
 </head>
 <body ng-controller="AppCtrl as app">
-<div  id="slide-out" class="side-nav">
-    <select multiple>
-            <!--ng-model="app.selectedSkin"-->
-            <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
-        <option value="" disabled selected>Snipers</option>
-    </select>
+<div class="parallax-container">
+    <div class="parallax"><img src="images/sn_logo.jpg"></div>
 
-    <select multiple>
-            <!--ng-model="app.selectedSkin"-->
-            <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
-        <option value="" disabled selected>Rifles</option>
-    </select>
+    <div  id="slide-out" class="side-nav">
+        <select multiple>
+                <!--ng-model="app.selectedSkin"-->
+                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+            <option value="" disabled selected>Snipers</option>
+        </select>
 
-    <select multiple>
-            <!--ng-model="app.selectedSkin"-->
-            <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
-        <option value="" disabled selected>Submachine Guns</option>
-    </select>
+        <select multiple>
+                <!--ng-model="app.selectedSkin"-->
+                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+            <option value="" disabled selected>Rifles</option>
+        </select>
 
-    <select multiple>
-            <!--ng-model="app.selectedSkin"-->
-            <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
-        <option value="" disabled selected>Light-Machine Guns</option>
-    </select>
+        <select multiple>
+                <!--ng-model="app.selectedSkin"-->
+                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+            <option value="" disabled selected>Submachine Guns</option>
+        </select>
 
-    <select multiple>
-            <!--ng-model="app.selectedSkin"-->
-            <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
-        <option value="" disabled selected>Pistols</option>
-    </select>
+        <select multiple>
+                <!--ng-model="app.selectedSkin"-->
+                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+            <option value="" disabled selected>Light-Machine Guns</option>
+        </select>
 
-    <select multiple>
-            <!--ng-model="app.selectedSkin"-->
-            <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
-        <option value="" disabled selected>Knives</option>
-    </select>
+        <select multiple>
+                <!--ng-model="app.selectedSkin"-->
+                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+            <option value="" disabled selected>Pistols</option>
+        </select>
 
-    <select multiple>
-            <!--ng-model="app.selectedSkin"-->
-            <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
-        <option value="" disabled selected>Shotguns</option>
-    </select>
+        <select multiple>
+                <!--ng-model="app.selectedSkin"-->
+                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+            <option value="" disabled selected>Knives</option>
+        </select>
 
-    <select multiple>
-            <!--ng-model="app.selectedSkin"-->
-            <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
-        <option value="" disabled selected>Misc</option>
-    </select>
+        <select multiple>
+                <!--ng-model="app.selectedSkin"-->
+                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+            <option value="" disabled selected>Shotguns</option>
+        </select>
 
+        <select multiple>
+                <!--ng-model="app.selectedSkin"-->
+                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+            <option value="" disabled selected>Misc</option>
+        </select>
+
+    </div>
+    <a href="#" data-activates="slide-out" class="button-collapse show-on-large waves-effect waves-red btn"><i class="mdi-navigation-menu material-icons">add</i>Add Skins</a>
+    <div class="container">
+        <div class="row">
+            <div class="col m6 skin_boxes">xcbvcxvb</div>
+            <div class="col m6 skin_boxes">cvxb</div>
+        </div>
+    </div>
 </div>
-<a href="#" data-activates="slide-out" class="button-collapse show-on-large waves-effect waves-red btn"><i class="mdi-navigation-menu material-icons">add</i>Add Skins</a>
 
 
 
@@ -77,6 +87,9 @@
                 closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
             }
     );
+    $(document).ready(function(){
+        $('.parallax').parallax();
+    });
     $(document).ready(function() {
         $('select').material_select();
     });
