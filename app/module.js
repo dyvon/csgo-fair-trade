@@ -1,8 +1,7 @@
-angular.module('app', [])
+angular.module('app', ['ui.materialize'])
   .controller('AppCtrl', AppCtrl)
   .service('SkinsApi', skinsApi);
 
-var select_skin_type = document.getElementById("select_skin_types");
 
 
 function skinsApi($http) {
@@ -80,24 +79,24 @@ function select_change(){
  */
 
 function AppCtrl(SkinsApi, $filter) {
-        var test = SkinsApi.rifle()
-            .then(function (skins) {
-                var names = _.keys(skins),
-                    data = _.values(skins);
 
-                data = _.map(data, function (skin, index) {
-                    skin.name = names[index];
-                    skin.last_updated = moment(skin.last_updated * 1000).fromNow();
-                    skin.currencyValue = $filter('currency')(skin.value / 100);
-                    return skin;
-                });
-
-                vm.skins = data;
-            });
 
 
   var vm = this;
-  test
+    SkinsApi.sniper()
+      .then(function (skins) {
+          var names = _.keys(skins),
+              data = _.values(skins);
+
+          data = _.map(data, function (skin, index) {
+              skin.name = names[index];
+              skin.last_updated = moment(skin.last_updated * 1000).fromNow();
+              skin.currencyValue = $filter('currency')(skin.value / 100);
+              return skin;
+          });
+
+          vm.skins = data;
+      });
 }
 
 

@@ -9,55 +9,54 @@
     <title>Fair Trade</title>
 </head>
 <body ng-controller="AppCtrl as app">
-<div class="parallax-container">
-    <div class="parallax"><img src="images/sn_logo.jpg"></div>
 
-    <div  id="slide-out" class="side-nav">
-        <select multiple>
-                <!--ng-model="app.selectedSkin"-->
-                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+    <div  id="slide-out" class="side-nav input-field">
+        <p></p>
+        <select  material-select multiple
+                ng-model="app.selectedSkin"
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
             <option value="" disabled selected>Snipers</option>
         </select>
 
-        <select multiple>
-                <!--ng-model="app.selectedSkin"-->
-                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+        <select material-select multiple
+                ng-model="app.selectedSkin"
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
             <option value="" disabled selected>Rifles</option>
         </select>
 
-        <select multiple>
-                <!--ng-model="app.selectedSkin"-->
-                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+        <select material-select multiple
+                ng-model="app.selectedSkin"
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
             <option value="" disabled selected>Submachine Guns</option>
         </select>
 
-        <select multiple>
-                <!--ng-model="app.selectedSkin"-->
-                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+        <select material-select multiple
+                ng-model="app.selectedSkin"
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
             <option value="" disabled selected>Light-Machine Guns</option>
         </select>
 
-        <select multiple>
-                <!--ng-model="app.selectedSkin"-->
-                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+        <select material-select multiple
+                ng-model="app.selectedSkin"
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
             <option value="" disabled selected>Pistols</option>
         </select>
 
-        <select multiple>
-                <!--ng-model="app.selectedSkin"-->
-                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+        <select material-select multiple
+                ng-model="app.selectedSkin"
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
             <option value="" disabled selected>Knives</option>
         </select>
 
-        <select multiple>
-                <!--ng-model="app.selectedSkin"-->
-                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+        <select material-select multiple
+                ng-model="app.selectedSkin"
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
             <option value="" disabled selected>Shotguns</option>
         </select>
 
-        <select multiple>
-                <!--ng-model="app.selectedSkin"-->
-                <!--ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">-->
+        <select material-select multiple
+                ng-model="app.selectedSkin"
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
             <option value="" disabled selected>Misc</option>
         </select>
 
@@ -69,7 +68,7 @@
             <div class="col m6 skin_boxes">cvxb</div>
         </div>
     </div>
-</div>
+
 
 
 
@@ -80,6 +79,7 @@
 <script type="text/javascript" src="node_modules/moment/moment.js"></script>
 <script type="text/javascript" src="node_modules/materialize/materialize.min.js"></script>
 <script type="text/javascript" src="app/module.js"></script>
+    <script type="text/javascript" src="app/angular-materialize.js"></script>
 <script>
     $('.button-collapse').sideNav({
                 menuWidth: 300, // Default is 240

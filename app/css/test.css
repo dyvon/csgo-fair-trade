@@ -1,4 +1,10 @@
+html{
+    background-color: rgba(19, 36, 225, 0.3);
+}
 .skin_boxes{
     background-color: #acac86;
-    min-height: 100px;
+    min-height: 300px;
+    border:solid thin;
+    padding: 0 !important;
+    margin-top:20px !important;
 }
