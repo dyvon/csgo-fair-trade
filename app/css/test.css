@@ -1,8 +1,8 @@
 html{
-    background-color: rgba(19, 36, 225, 0.3);
+    background-color: #e6e6e6;
 }
 .skin_boxes{
-    background-color: #acac86;
+    background-color: #cccccc;
     min-height: 300px;
     border:solid thin;
     padding: 0 !important;

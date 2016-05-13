@@ -15,65 +15,83 @@
         <p></p>
         <select  material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.sniper">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.sniper"
+                id="sniper_id">
             <option value="" disabled selected>Snipers</option>
 
         </select>
 
         <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.rifle">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.rifle"
+                id="rifle_id">
             <option value="" disabled selected>Rifles</option>
         </select>
 
         <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.submachinegun">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.submachinegun"
+                id="submachine_id">
             <option value="" disabled selected>Submachine Guns</option>
         </select>
 
         <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.lightmachinegun">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.lightmachinegun"
+                id="lightmachine_id">
             <option value="" disabled selected>Light-Machine Guns</option>
         </select>
 
         <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.pistol">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.pistol"
+                id="pistol_id">
             <option value="" disabled selected>Pistols</option>
         </select>
 
         <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.knife">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.knife"
+                id="knife_id">
             <option value="" disabled selected>Knives</option>
         </select>
 
         <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.shotgun">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.shotgun"
+                id="shotgun_id">
             <option value="" disabled selected>Shotguns</option>
         </select>
 
         <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.misc">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.misc"
+                id="misc_id">
             <option value="" disabled selected>Misc</option>
         </select>
+        <div class="container">
+            <div class="row">
+                <button class="btn waves-effect waves-light" type="submit" name="action">Submit Your Skins
+                    <i class="material-icons right">send</i>
+                </button>
+                <br>
+                <br>
+                <button class="btn waves-effect waves-light" type="submit" name="action">Submit Proposed Skins
+                    <i class="material-icons right">send</i>
+                </button>
+            </div>
+        </div>
 
     </div>
-    <a href="#" data-activates="slide-out" class="button-collapse show-on-large waves-effect waves-red btn"><i class="mdi-navigation-menu material-icons">add</i>Add Skins</a>
+    <a href="#" data-activates="slide-out" class="button-collapse show-on-large waves-effect waves-light btn"><i class="mdi-navigation-menu material-icons">add</i>Add Skins</a>
 
     <div class="container">
         <div class="row">
             <div class="col m6 skin_boxes"></div>
             <div class="col m6 skin_boxes"></div>
+            <a class="show-on-large waves-effect waves-light btn">Button</a>
         </div>
     </div>
-
-
-
 
 
 <script type="text/javascript" src="node_modules/jquery-1.12.3.min.js"></script>
@@ -83,6 +101,7 @@
 <script type="text/javascript" src="node_modules/materialize/materialize.min.js"></script>
 <script type="text/javascript" src="app/module.js"></script>
     <script type="text/javascript" src="app/angular-materialize.js"></script>
+    <script type="text/javascript" src="app/js.js"></script>
 <script>
     $('.button-collapse').sideNav({
                 menuWidth: 300, // Default is 240
