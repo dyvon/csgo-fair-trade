@@ -6,66 +6,69 @@
     <link rel="stylesheet" type="text/css" href="node_modules/materialize/materialize.min.css" media="screen,projection">
     <link rel="stylesheet" type="text/css" href="app/css/test.css">
     <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Fair Trade</title>
 </head>
 <body ng-controller="AppCtrl as app">
 
     <div  id="slide-out" class="side-nav input-field">
         <p></p>
-        <select  material-select multiple
+        <select  material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.sniper">
             <option value="" disabled selected>Snipers</option>
+
         </select>
 
-        <select material-select multiple
+        <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.rifle">
             <option value="" disabled selected>Rifles</option>
         </select>
 
-        <select material-select multiple
+        <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.submachinegun">
             <option value="" disabled selected>Submachine Guns</option>
         </select>
 
-        <select material-select multiple
+        <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.lightmachinegun">
             <option value="" disabled selected>Light-Machine Guns</option>
         </select>
 
-        <select material-select multiple
+        <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.pistol">
             <option value="" disabled selected>Pistols</option>
         </select>
 
-        <select material-select multiple
+        <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.knife">
             <option value="" disabled selected>Knives</option>
         </select>
 
-        <select material-select multiple
+        <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.shotgun">
             <option value="" disabled selected>Shotguns</option>
         </select>
 
-        <select material-select multiple
+        <select material-select multiple watch
                 ng-model="app.selectedSkin"
-                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins">
+                ng-options="skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins.misc">
             <option value="" disabled selected>Misc</option>
         </select>
 
     </div>
     <a href="#" data-activates="slide-out" class="button-collapse show-on-large waves-effect waves-red btn"><i class="mdi-navigation-menu material-icons">add</i>Add Skins</a>
+
     <div class="container">
         <div class="row">
-            <div class="col m6 skin_boxes">xcbvcxvb</div>
-            <div class="col m6 skin_boxes">cvxb</div>
+            <div class="col m6 skin_boxes"></div>
+            <div class="col m6 skin_boxes"></div>
         </div>
     </div>
 

@@ -3,74 +3,89 @@ angular.module('app', ['ui.materialize'])
   .service('SkinsApi', skinsApi);
 
 
-
 function skinsApi($http) {
-  /**
-   * This function will call an api and return some skins.
-   *
-   * @returns {*}
-   */
+    var _this = this;
 
-    this.knife = function () {
-        return $http.get('./app/json_files/knife_skins.json')
-            .then(function (res) {
-                return res.data;
-            });
-    };
-    this.light_machinegun = function () {
-        return $http.get('./app/json_files/light_machinegun.json')
-            .then(function (res) {
-                return res.data;
-            });
-    };
-    this.misc = function () {
-        return $http.get('./app/json_files/misc.json')
-            .then(function (res) {
-                return res.data;
-            });
-    };
-    this.pistol = function () {
-        return $http.get('./app/json_files/pistol_skins.json')
-            .then(function (res) {
-                return res.data;
-            });
-    };
-    this.rifle = function () {
-        return $http.get('./app/json_files/rifle_skins.json')
-            .then(function (res) {
-                return res.data;
-            });
-    };
-    this.shotgun = function () {
-        return $http.get('./app/json_files/shotgun_skins.json')
-            .then(function (res) {
-                return res.data;
-            });
-    };
-    this.sniper = function () {
+    this.getSkins1 = function () {
+        var skins = {};
+
         return $http.get('./app/json_files/sniper_skins.json')
             .then(function (res) {
-                return res.data;
+                skins.sniper = res.data;
+                return skins;
             });
     };
-    this.sub_machinegun = function () {
+
+    this.getSkins2 = function (skins) {
+        return $http.get('./app/json_files/rifle_skins.json')
+            .then(function (res) {
+                skins.rifle = res.data;
+                return skins;
+            });
+    };
+
+    this.getSkins3 = function (skins) {
         return $http.get('./app/json_files/submachinegun_skins.json')
             .then(function (res) {
-                return res.data;
+                skins.submachinegun = res.data;
+                return skins;
             });
+    };
+
+    this.getSkins4 = function (skins) {
+        return $http.get('./app/json_files/light_machinegun.json')
+            .then(function (res) {
+                skins.lightmachinegun = res.data;
+                return skins;
+            });
+    };
+
+    this.getSkins5 = function (skins) {
+        return $http.get('./app/json_files/pistol_skins.json')
+            .then(function (res) {
+                skins.pistol = res.data;
+                return skins;
+            });
+    };
+
+    this.getSkins6 = function (skins) {
+        return $http.get('./app/json_files/knife_skins.json')
+            .then(function (res) {
+                skins.knife = res.data;
+                return skins;
+            });
+    };
+
+    this.getSkins7 = function (skins) {
+        return $http.get('./app/json_files/shotgun_skins.json')
+            .then(function (res) {
+                skins.shotgun = res.data;
+                return skins;
+            });
+    };
+
+    this.getSkins8 = function (skins) {
+        return $http.get('./app/json_files/misc.json')
+            .then(function (res) {
+                skins.misc = res.data;
+                return skins;
+            });
+    };
+
+    this.getSkins = function () {
+        return _this.getSkins1()
+            .then(_this.getSkins2)
+            .then(_this.getSkins3)
+            .then(_this.getSkins4)
+            .then(_this.getSkins5)
+            .then(_this.getSkins6)
+            .then(_this.getSkins7)
+            .then(_this.getSkins8);
     };
 }
 
-function select_change(){
-    var skin_list_div = document.getElementById("skin_list_div");
-    var select = document.createElement("select");
-    skin_list_div.appendChild(select);
-    select.setAttribute("class", "form-control");
-    select.setAttribute("ng-model", "app.selectedSkin");
-    select.setAttribute("ng-options", "skin.name as skin.name + ' - ' + skin.currencyValue for skin in app.skins");
 
 
-}
 /**
  * Skins Controller.
  *
@@ -83,19 +98,22 @@ function AppCtrl(SkinsApi, $filter) {
 
 
   var vm = this;
-    SkinsApi.sniper()
+    vm.skins = {};
+    SkinsApi.getSkins()
       .then(function (skins) {
-          var names = _.keys(skins),
-              data = _.values(skins);
+          _.forOwn(skins, function (value, key) {
+              var names = _.keys(value),
+                  data = _.values(value);
 
-          data = _.map(data, function (skin, index) {
-              skin.name = names[index];
-              skin.last_updated = moment(skin.last_updated * 1000).fromNow();
-              skin.currencyValue = $filter('currency')(skin.value / 100);
-              return skin;
+              data = _.map(data, function (skin, index) {
+                  skin.name = names[index];
+                  skin.last_updated = moment(skin.last_updated * 1000).fromNow();
+                  skin.currencyValue = $filter('currency')(skin.value / 100);
+                  return skin;
+              });
+
+              vm.skins[key] = data;
           });
-
-          vm.skins = data;
       });
 }
 
